@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Reiko Okamoto. I'm a Master of Data Science candidate at the University of British Columbia in Vancouver, Canada.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a virgo. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[reiko.okamoto17@gmail.com](mailto:reiko.okamoto17@gmail.com)
