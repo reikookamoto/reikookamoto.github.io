@@ -3,7 +3,7 @@ layout: post
 title: Hello world!
 ---
 
-This is my first blog post.
+This is my first blog post. I hope to add more posts in the future!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
