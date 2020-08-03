@@ -3,7 +3,9 @@ layout: post
 title: Eurovis(ualizat)ion
 ---
 
-<img src="https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Eurovision Song Contest" style="width:40%">
+<img src="https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Eurovision Song Contest" style="width:66%">
+
+## Introduction
 
 I recently watched Netflix's *Eurovision Song Contest: the Story of Fire Saga*. Starring Will Ferell and Rachel McAdams, this satirical take on the iconic song contest was, hands down, the second best thing that's happened to me this year after completing the Master of Data Science program. And I'm not even a huge fan of the actual competition! I hadn't even heard of the Eurovision Song Contest until I studied abroad in Sweden during my undergrad. My mom visited me during the week of the grand final and I just remember watching the show on TV with her in utter confusion.
 
@@ -13,16 +15,22 @@ Although we rarely talk about this event in North America, people take it seriou
 
 With a rich history and avid fanbase, many people, including [this virologist at Lancaster University](https://www.bbc.com/news/av/entertainment-arts-22560481), have decided to analyze data derived from the competition. After watching the movie, not only did I have *Double Trouble* stuck in my head, I also had an urge to hop on the bandwagon and explore Eurovision data myself. I stumbled upon a few articles that tried to identify trends in voting behaviour and after reading them, I was inspired to use unsupervised learning to identify which countries vote similarly. In addition, I wanted to examine whether there are any underlying reasons for these patterns.
 
+## Dataset description
+
 Luckily, I found a dataset that contained all scores given from 1975 until 2019 during the finals and semi-finals. I only included observations since the start of the millennium because there was a surge of countries that joined the competition around that time. I also want to acknowledge that Eurasia has seen many geopolitical changes during the last 100 years. I only kept observations belonging to nations that currently exist so that the voting behaviour could eventually be visualized using the world map supported by Altair. I should also mention that, while each country gives two sets of points, I only included votes from the juries at the finals since televoting results weren't consistently available over the years. If you're curious, the video below provides a thorough explanation of the current voting procedure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wd_RHS3f5-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I began by wrangling the data and creating a table in which the rows contained the points *given* by a country and the columns contained the points *received* by a country during a specific year. A snippet of the data frame is shown below. By organizing the data in this way, each row can be seen as a vector that holds information about a particular country's musical and artistic preferences. Countries that have voted similarly throughout the contest's history should be represented by vectors that are close to each other. By extension, we can also infer that they have similar preferences.
+## Data wrangling
 
+I began by cleaning the data and creating a table in which the rows contained the points *given* by a country and the columns contained the points *received* by a country during a specific year. A snippet of the data frame is shown below. By organizing the data in this way, each row can be seen as a vector that holds information about a particular country's musical and artistic preferences. Countries that have voted similarly throughout the contest's history should be represented by vectors that are close to each other. By extension, we can also infer that they have similar preferences.
 
+![]({{ site.baseurl }}/imgs/eurovision_data_nan.png)
+
+However, there was still some cleaning up to do. Before I could do any modeling, I had to make sure that there were no missing values.
 
 ### Sources
-1. https://eurovision.tv/story/182-million-viewers-2019-eurovision-song-contest
-2. https://www.latimes.com/entertainment-arts/business/story/2020-02-03/super-bowl-2020-scores-99-9-million-tv-viewers-with-chiefs-comeback
-3. https://medium.com/yottabytes/what-s-behind-the-eurovision-voting-3e154d42fb47
-4. http://37steps.com/4536/eu-song-contest/
+1. [182 million viewers tuned in to the 2019 Eurovision Song Contest](https://eurovision.tv/story/182-million-viewers-2019-eurovision-song-contest)
+2. [Super Bowl 2020 scores 99.9 million TV viewers with Chiefs comeback](https://www.latimes.com/entertainment-arts/business/story/2020-02-03/super-bowl-2020-scores-99-9-million-tv-viewers-with-chiefs-comeback)
+3. [What's behind the Eurovision voting](https://medium.com/yottabytes/what-s-behind-the-eurovision-voting-3e154d42fb47)
+4. [The Eurovision Song Contest Analyzed](http://37steps.com/4536/eu-song-contest/)
