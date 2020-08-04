@@ -17,7 +17,7 @@ With a rich history and avid fanbase, many people, including [this virologist at
 
 ## Dataset description
 
-Luckily, I found a dataset that contained all scores given from 1975 until 2019 during the finals and semi-finals. I only included observations since the start of the millennium because there was a surge of countries that joined the competition around that time. I also want to acknowledge that Eurasia has seen many geopolitical changes during the last 100 years. I only kept observations belonging to nations that currently exist so that the voting behaviour could eventually be visualized using the world map supported by Altair. I should also mention that, while each country gives two sets of points, I only included votes from the juries at the finals since televoting results weren't consistently available over the years. If you're curious, the video below provides a thorough explanation of the current voting procedure.
+Luckily, I found a [dataset](https://data.world/datagraver/eurovision-song-contest-scores-1975-2019) that contained all scores given from 1975 until 2019 during the finals and semi-finals. I only included observations since the start of the millennium because there was a surge of countries that joined the competition around that time. I also want to acknowledge that Eurasia has seen many geopolitical changes during the last 100 years. I only kept observations belonging to nations that currently exist so that the voting behaviour could eventually be visualized using the world map supported by Altair. I should also mention that, while each country gives two sets of points, I only included votes from the juries at the finals since televoting results weren't consistently available over the years. If you're curious, the video below provides a thorough explanation of the current voting procedure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wd_RHS3f5-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ Luckily, I found a dataset that contained all scores given from 1975 until 2019 
 
 I began by cleaning the data and creating a table in which the rows contained the points *given* by a country and the columns contained the points *received* by a country during a specific year. A snippet of the data frame is shown below. By organizing the data in this way, each row can be seen as a vector that holds information about a particular country's musical and artistic preferences. Countries that have voted similarly throughout the contest's history should be represented by vectors that are close to each other. By extension, we can also infer that they have similar preferences.
 
-![]({{ site.baseurl }}/imgs/eurovision_data_nan.png)
+![]({{ site.baseurl }}/imgs/eurovision_data_nan.PNG)
 
 However, there was still some cleaning up to do. Before I could do any modeling, I had to make sure that there were no missing values.
 
