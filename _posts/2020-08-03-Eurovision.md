@@ -17,7 +17,7 @@ With a rich history and avid fanbase, many people, including [this virologist at
 
 ## Dataset description
 
-Luckily, I found a [dataset](https://data.world/datagraver/eurovision-song-contest-scores-1975-2019) that contained all scores given from 1975 until 2019 during the finals and semi-finals. I only included observations since the start of the millennium since there was a surge of countries that joined the competition around that time. I also want to acknowledge that Eurasia has seen many geopolitical changes during the last 100 years. For that reason, I only kept observations belonging to nations that currently exist so that the voting behaviour could eventually be visualized using the world map supported by Altair. I should also mention that, while each country gives two sets of points, I only considered the jury vote at the finals since televoting results weren't consistently available over the years. If you're curious, the video below provides a thorough explanation of the current voting procedure.
+Luckily, I found a [dataset](https://data.world/datagraver/eurovision-song-contest-scores-1975-2019) that contained all scores given from 1975 until 2019 during the finals and semi-finals. I only included observations since the start of the millennium since there was a surge of countries that joined the competition around that time. I also want to acknowledge that Eurasia has seen many geopolitical changes during the last 100 years. For that reason, I only kept observations belonging to nations that currently exist so that the voting behaviour could eventually be visualized using the world map supported by Altair. I should also mention that, while each country gives two sets of points, I only considered the jury vote at the finals for this analysis since televoting results weren't consistently available over the years. If you're curious, the video below provides a thorough explanation of the current voting procedure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wd_RHS3f5-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -27,9 +27,9 @@ I began by cleaning the data and creating a data frame in which the rows held th
 
 ![]({{ site.baseurl }}/imgs/eurovision_data_nan.PNG)
 
-There was a little cleaning up left to do before I could do any modeling. I had to make sure that there were no missing values in the data frame. Since countries can't give points to themselves, scores were missing where the row and column referred to the same country. For example, in the example above, scores for `Albania2004` through `Albania2019` are missing for `Albania`. In these situations, I imputed the missing values with 12. I assumed that, if they could, each country would give themselves the highest score (12 points) since their performance should be something that perfectly captures their interest and preference. Missing values were attributable to another reason: if a country didn't participate in the contest in a given year, they wouldn't have been able to give points to the others. In these cases, each missing score was replaced with 0 since that's the most probable score that a participating country would give to another country (i.e. the mode).
+There was a little cleaning up left to do before I could do any modeling. I had to make sure that there were no missing values in the data frame. Since countries can't give points to themselves, scores were missing where the row and column referred to the same country. For example, in the data frame above, scores for `Albania2004` through `Albania2019` are missing for `Albania`. In these situations, I imputed the missing values with 12. I assumed that, if they could, each country would give themselves the highest score possible (12 points) since their performance should be something that perfectly captures their interest and preference. Missing values were attributable to another reason: if a country didn't participate in the contest in a given year, they wouldn't have been able to give points to the other countries. In these cases, each missing score was replaced with 0 since that's the most probable score that a participating country would give to another country (i.e. the mode).
 
-Once the data frame were free of missing values, we were ready for hierarchical clustering!
+Once the data frame were free of missing values, we were ready for hierarchical clustering.
 
 ![](https://media.giphy.com/media/jpbi38x5UZZYxKq35c/giphy.gif)
 
@@ -46,7 +46,7 @@ It looks like there are five distinct groups. Here were some of my initial obser
 
 ## Visualizing the voting preferences
 
-From there, I used scikit-learn's [Agglomerative Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html) to retrieve the cluster labels. Then, I visualized the clustering on a choropleth map using Altair. Countries in dark blue either don't have data or aren't participants of the Eurovision Song Contest.
+From there, I used scikit-learn's [Agglomerative Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html) to retrieve the cluster labels. Then, I visualized the labels on a choropleth map using Altair. Countries in dark blue either don't have data or aren't participants of the Eurovision Song Contest.
 
 ![]({{ site.baseurl }}/imgs/eurovision_choropleth.PNG)
 
