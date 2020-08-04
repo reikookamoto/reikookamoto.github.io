@@ -23,11 +23,39 @@ Luckily, I found a [dataset](https://data.world/datagraver/eurovision-song-conte
 
 ## Data wrangling
 
-I began by cleaning the data and creating a table in which the rows contained the points *given* by a country and the columns contained the points *received* by a country during a specific year. A snippet of the data frame is shown below. By organizing the data in this way, each row can be seen as a vector that holds information about a particular country's musical and artistic preferences. Countries that have voted similarly throughout the contest's history should be represented by vectors that are close to each other. By extension, we can also infer that they have similar preferences.
+I began by cleaning the data and creating a data frame in which the rows contained the points *given* by a country and the columns contained the points *received* by a country during a specific year. A snippet of the data frame is shown below. By organizing the data in this way, each row can be seen as a vector that holds information about a particular country's musical and artistic preferences. Countries that have voted similarly throughout the contest's history should be represented by vectors that are close to each other. By extension, we can also infer that they have similar preferences.
 
 ![]({{ site.baseurl }}/imgs/eurovision_data_nan.PNG)
 
-However, there was still some cleaning up to do. Before I could do any modeling, I had to make sure that there were no missing values.
+However, there was still some cleaning up to do. Before I could do any modeling, I had to make sure that there were no missing values in the data frame. Since countries can't give points to themselves, scores are missing where the row and column refer to the same country. For example, in the example above, scores for `Albania2004` through `Albania2019` are missing for `Albania`. In these situations, I imputed the missing values with 12. I assumed that, if they could, each country would give themselves the highest score since their performance should be something that perfectly captures their interest and preference. Missing values were attributable to another reason. If a country didn't participate in the contest in a given year, they wouldn't have been able to give points to the other countries. In these cases, each missing score was replaced with 0 since that's the most probably score that a participating country would give to another country in the finale (i.e. the mode).
+
+Once the data frame were free of missing values, we were ready to perform hierarchical clustering!
+
+![](https://media.giphy.com/media/jpbi38x5UZZYxKq35c/giphy.gif)
+
+## Hierarchical clustering
+
+I played around with a few different clustering techniques and distance measures. I ended up using the Ward technique with Euclidean distance, merging clusters based on what leads to the smallest increase in inertia (i.e. within-cluster dissimilarity). The dendogram is shown below.
+
+![]({{ site.baseurl }}/imgs/eurovision_dendogram.PNG)
+
+It looks like there are five distinct groups. Here were some of my initial observations:
+
+- Northern European countries are in the same cluster.
+- There's an odd cluster consisting of Australia (you read that right) and microstates like Andorra, Monaco, and San Marino.
+- Spain and Portugal are doing their own thing but does their proximity to Romania have anything to do with the fact that they belong to the same language family?
+
+From there, I used scikit-learn's [Agglomerative Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html) to retrieve the cluster labels. Then, I visualized the clustering on a choropleth map using Altair. Countries in dark blue either don't have data or aren't participants of the Eurovision Song Contest.
+
+![]({{ site.baseurl }}/imgs/eurovision_choropleth.PNG)
+
+## Wrapping up
+
+In the future, I'd like to incorporate the results from televoting. Although each country's jury panel is supposed to be demographically representative of the country, it'd still be interesting to see how the clustering would change if the people's votes are included in the analysis.
+
+You've made it to the end of the post! For your listening pleasure, I've included the Spotify playlist containing the songs that would've competed at this year's contest if it wasn't cancelled due to the pandemic. Iceland's *real* entry *Think About Things* is a real bop.
+
+<iframe src="https://open.spotify.com/embed/playlist/0xGk0xR6fI88NsmiHZZMPE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Sources
 1. [182 million viewers tuned in to the 2019 Eurovision Song Contest](https://eurovision.tv/story/182-million-viewers-2019-eurovision-song-contest)
