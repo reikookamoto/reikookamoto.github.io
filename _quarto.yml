@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "reikookamoto.github.io"
+  title: "Reiko Okamoto"
   navbar:
     left:
       - href: index.qmd
