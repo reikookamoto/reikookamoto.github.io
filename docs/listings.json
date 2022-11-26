@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/outreach.html",
+    "items": [
+      "/outreach/2022-10-17_r-ladies-rocur/index.html",
+      "/outreach/2021-10-05_r-ladies-seattle/index.html",
+      "/outreach/2021-06-05_r-cascadia/index.html",
+      "/outreach/2021-05-12_r-ladies-vancouver/index.html",
+      "/outreach/2020-09-02_ubc-mds-alumni/index.html"
+    ]
+  },
+  {
+    "listing": "/software.html",
+    "items": [
+      "/software/bcepirate/index.html"
+    ]
+  }
+]

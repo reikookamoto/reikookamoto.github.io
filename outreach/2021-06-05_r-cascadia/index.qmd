@@ -1,0 +1,11 @@
+---
+title: "Bringing analysts and technical writers together through internal packages"
+description: |
+  A lightning talk given at Cascadia R Conf 2021
+author:
+  name: Reiko Okamoto
+date: 2021-06-05
+image: etienne-girardet-RuMqg2cs-M0-unsplash.jpg
+---
+
+# Summary

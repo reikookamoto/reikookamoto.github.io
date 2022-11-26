@@ -1,0 +1,11 @@
+---
+title: "R-Ladies RoCur (Rotating Curation)"
+description: |
+  Curating the @WeAreRLadies Twitter account
+author:
+  name: Reiko Okamoto
+date: 2022-10-07
+image: chris-j-davis-7ezFz2Hxd40-unsplash.jpg
+---
+
+# Summary

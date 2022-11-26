@@ -18,3 +18,20 @@ about:
 ---
 
 Under construction
+
+## Education
+
+-   The University of British Columbia \| Vancouver, BC\
+    Master of Data Science \| September 2019 - June 2020
+
+-   The University of British Columbia \| Vancouver, BC\
+    Bachelor of Science, Microbiology and Immunology \| September 2013 - April 2018
+
+## Experience
+
+-   National Research Council Canada, Data Analytics Center \| Ottawa, ON\
+    Data Scientist \| March 2022 - Present
+
+-   Ministry of Health, Office of the Provincial Health Officer \| Victoria, BC\
+    Senior Data Analyst \| September 2021 - February 2022\
+    Data Analyst \| August 2020 - September 2021

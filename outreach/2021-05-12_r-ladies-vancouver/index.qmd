@@ -1,0 +1,11 @@
+---
+title: "Developing R packages for yourself and others"
+description: |
+  An introduction to package development, given to R-Ladies Vancouver
+author:
+  name: Reiko Okamoto
+date: 2021-05-12
+image: chuttersnap-fyaTq-fIlro-unsplash.jpg
+---
+
+# Summary

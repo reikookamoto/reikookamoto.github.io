@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Reiko Okamoto</title>
+<title>Reiko Okamoto - Outreach</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./bullet-train_1f685.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -58,12 +61,42 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,10 +113,10 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html">Outreach</a>
+    <a class="nav-link active" href="./outreach.html" aria-current="page">Outreach</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./software.html">Software</a>
@@ -101,60 +134,164 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="a5be80d32aa27c56eacd26ac5503320a.jpg" class="about-image
-  rounded " style="width: 15em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Reiko Okamoto</h1>
+<h1 class="title">Outreach</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="mailto:reiko.okamoto17@gmail.com" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://github.com/reikookamoto" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://www.linkedin.com/in/reiko-okamoto-432273a4" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Under construction</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<ul>
-<li><p>The University of British Columbia | Vancouver, BC<br>
-Master of Data Science | September 2019 - June 2020</p></li>
-<li><p>The University of British Columbia | Vancouver, BC<br>
-Bachelor of Science, Microbiology and Immunology | September 2013 - April 2018</p></li>
-</ul>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<ul>
-<li><p>National Research Council Canada, Data Analytics Center | Ottawa, ON<br>
-Data Scientist | March 2022 - Present</p></li>
-<li><p>Ministry of Health, Office of the Provincial Health Officer | Victoria, BC<br>
-Senior Data Analyst | September 2021 - February 2022<br>
-Data Analyst | August 2020 - September 2021</p></li>
-</ul>
 
 
-</section>
-</main></div>
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1665115200000" data-listing-file-modified-sort="1669438395555" data-listing-reading-time-sort="0.005">
+<a href="./outreach/2022-10-17_r-ladies-rocur/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./outreach/2022-10-17_r-ladies-rocur/chris-j-davis-7ezFz2Hxd40-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+R-Ladies RoCur (Rotating Curation)
+</h5>
+<div class="card-text listing-description">
+<p>Curating the <span class="citation" data-cites="WeAreRLadies">@WeAreRLadies</span> Twitter account</p>
 </div>
- <!-- /main -->
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Reiko Okamoto
+</div>
+<div class="listing-date">
+Oct 7, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1633406400000" data-listing-file-modified-sort="1669438410852" data-listing-reading-time-sort="0.005">
+<a href="./outreach/2021-10-05_r-ladies-seattle/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./outreach/2021-10-05_r-ladies-seattle/chuttersnap-fyaTq-fIlro-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Developing R packages for yourself and others
+</h5>
+<div class="card-text listing-description">
+<p>An introduction to package development, given to R-Ladies Seattle</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Reiko Okamoto
+</div>
+<div class="listing-date">
+Oct 5, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1622865600000" data-listing-file-modified-sort="1669438427687" data-listing-reading-time-sort="0.005">
+<a href="./outreach/2021-06-05_r-cascadia/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./outreach/2021-06-05_r-cascadia/etienne-girardet-RuMqg2cs-M0-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bringing analysts and technical writers together through internal packages
+</h5>
+<div class="card-text listing-description">
+<p>A lightning talk given at Cascadia R Conf 2021</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Reiko Okamoto
+</div>
+<div class="listing-date">
+Jun 5, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1620792000000" data-listing-file-modified-sort="1669438416982" data-listing-reading-time-sort="0.005">
+<a href="./outreach/2021-05-12_r-ladies-vancouver/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./outreach/2021-05-12_r-ladies-vancouver/chuttersnap-fyaTq-fIlro-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Developing R packages for yourself and others
+</h5>
+<div class="card-text listing-description">
+<p>An introduction to package development, given to R-Ladies Vancouver</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Reiko Okamoto
+</div>
+<div class="listing-date">
+May 12, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1599019200000" data-listing-file-modified-sort="1669438329726" data-listing-reading-time-sort="0.005">
+<a href="./outreach/2020-09-02_ubc-mds-alumni/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./outreach/2020-09-02_ubc-mds-alumni/owen-yin-KYIZbdm2dsU-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+How to strive in the Master of Data Science program
+</h5>
+<div class="card-text listing-description">
+<p>Advice from an alum</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Reiko Okamoto
+</div>
+<div class="listing-date">
+Sep 2, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -175,6 +312,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

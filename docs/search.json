@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reiko Okamoto",
     "section": "",
     "text": "Under construction"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Reiko Okamoto",
+    "section": "Education",
+    "text": "Education\n\nThe University of British Columbia | Vancouver, BC\nMaster of Data Science | September 2019 - June 2020\nThe University of British Columbia | Vancouver, BC\nBachelor of Science, Microbiology and Immunology | September 2013 - April 2018"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Reiko Okamoto",
+    "section": "Experience",
+    "text": "Experience\n\nNational Research Council Canada, Data Analytics Center | Ottawa, ON\nData Scientist | March 2022 - Present\nMinistry of Health, Office of the Provincial Health Officer | Victoria, BC\nSenior Data Analyst | September 2021 - February 2022\nData Analyst | August 2020 - September 2021"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Curating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development, given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development, given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "No matching items"
   }
 ]

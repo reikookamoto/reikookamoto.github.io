@@ -1,0 +1,11 @@
+---
+title: "How to strive in the Master of Data Science program"
+description: |
+  Advice from an alum
+author:
+  name: Reiko Okamoto
+date: 2020-09-02
+image: owen-yin-KYIZbdm2dsU-unsplash.jpg
+---
+
+# Summary
