@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -162,7 +162,10 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1669257829416" data-listing-reading-time-sort="0.005">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1669525850568" data-listing-reading-time-sort="0.005">
+<div class="thumbnail">
+<p><a href="./software/bcepirate/index.html"> <img src="./software/bcepirate/logo.png" class="thumnail-image"> </a></p>
+</div>
 <div class="body">
 <a href="./software/bcepirate/index.html">
 <h3 class="no-anchor listing-title">
@@ -172,12 +175,16 @@ bcEpiRate
 
 </div>
 <div class="listing-description">
-
+<p>Tools for standardized rates in population health surveillance and epidemiology</p>
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./software/bcepirate/index.html"> </a>
+<a href="./software/bcepirate/index.html">
+<div class="listing-author">
+Reiko Okamoto, Henry Ngo, Ioana Sevcenco
+</div>
+</a>
 </div>
 </div>
 </div>

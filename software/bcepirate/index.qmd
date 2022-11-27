@@ -1,4 +1,10 @@
 ---
-title: bcEpiRate
+title: "bcEpiRate"
+description: |
+  Tools for standardized rates in population health surveillance and epidemiology
+author:
+  - name: Reiko Okamoto
+  - name: Henry Ngo
+  - name: Ioana Sevcenco
+image: logo.png
 ---
-
