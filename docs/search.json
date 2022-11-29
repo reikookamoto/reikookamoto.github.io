@@ -21,11 +21,46 @@
     "text": "Experience\n\nNational Research Council Canada, Data Analytics Center | Ottawa, ON\nData Scientist | March 2022 - Present\nMinistry of Health, Office of the Provincial Health Officer | Victoria, BC\nSenior Data Analyst | September 2021 - February 2022\nData Analyst | August 2020 - September 2021"
   },
   {
+    "objectID": "outreach/2021-05-12_r-ladies-vancouver/index.html",
+    "href": "outreach/2021-05-12_r-ladies-vancouver/index.html",
+    "title": "Developing R packages for yourself and others",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "outreach/2021-05-12_r-ladies-vancouver/index.html#overview",
+    "href": "outreach/2021-05-12_r-ladies-vancouver/index.html#overview",
+    "title": "Developing R packages for yourself and others",
+    "section": "Overview",
+    "text": "Overview\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
+  },
+  {
+    "objectID": "outreach/2021-06-05_r-cascadia/index.html",
+    "href": "outreach/2021-06-05_r-cascadia/index.html",
+    "title": "Bringing analysts and technical writers together through internal packages",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "outreach/2021-06-05_r-cascadia/index.html#abstract",
+    "href": "outreach/2021-06-05_r-cascadia/index.html#abstract",
+    "title": "Bringing analysts and technical writers together through internal packages",
+    "section": "Abstract",
+    "text": "Abstract\nRestructuring frequently used code snippets into well-organized internal packages is easier said than done. In this presentation, we share useful tools for package development and our approach to planning a package before writing the first line of code. We will discuss how to overcome challenges in this pre-coding phase, which is not as well documented as the technical aspects of the package development process. How do you find out what is it exactly that your team needs? How do you encourage team members to adopt the package and spread R culture? We answer these questions through a case study reflecting on our team’s experience creating a ggplot2 extension to meet the organization’s style guide for healthcare utilization reports. This package allows our analysts to focus on identifying trends in the data to share with the writing team instead of modifying their plots to get their look and feel right each time. Furthermore, this package has fostered an environment of collaboration by acting as a bridge between the analysts and technical writers in our organization."
+  },
+  {
+    "objectID": "outreach/2021-10-05_r-ladies-seattle/index.html",
+    "href": "outreach/2021-10-05_r-ladies-seattle/index.html",
+    "title": "Developing R packages for yourself and others",
+    "section": "",
+    "text": "R packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
+  },
+  {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Curating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development, given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development, given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Curating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",

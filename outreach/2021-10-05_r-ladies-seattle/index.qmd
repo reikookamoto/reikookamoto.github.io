@@ -1,11 +1,14 @@
 ---
 title: "Developing R packages for yourself and others"
 description: |
-    An introduction to package development, given to R-Ladies Seattle
+    An introduction to package development given to R-Ladies Seattle
 author:
-  name: Reiko Okamoto
+  - name: Reiko Okamoto
+    affiliation: Government of British Columbia
 date: 2021-10-05
 image: chuttersnap-fyaTq-fIlro-unsplash.jpg
 ---
 
-# Summary
+## Overview
+
+R packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond.
