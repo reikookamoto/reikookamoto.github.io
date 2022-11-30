@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  
 website:
   title: "Reiko Okamoto"
   navbar:
@@ -17,9 +18,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 
 editor: visual
 
+execute:
+  freeze: auto

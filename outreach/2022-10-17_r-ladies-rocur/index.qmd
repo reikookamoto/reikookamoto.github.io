@@ -4,8 +4,28 @@ description: |
   Curating the @WeAreRLadies Twitter account
 author:
   name: Reiko Okamoto
-date: 2022-10-07
+date: 2022-10-17
 image: chris-j-davis-7ezFz2Hxd40-unsplash.jpg
 ---
 
-# Summary
+## Summary
+
+Each week, a different R-Lady takes over the [\@WeAreRLadies](https://twitter.com/WeAreRLadies) Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experiences in R.
+
+From October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and received over 400 likes!
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+(1/n) A fun and practical idea for an R package: a <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> extension to modify plots so they adhere to an organization's visual identity 📊📈📉⬇️
+
+</p>
+
+--- We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1582555509772746755?ref_src=twsrc%5Etfw">October 19, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
