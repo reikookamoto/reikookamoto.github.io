@@ -10,9 +10,9 @@ image: chris-j-davis-7ezFz2Hxd40-unsplash.jpg
 
 ## Summary
 
-Each week, a different R-Lady takes over the [\@WeAreRLadies](https://twitter.com/WeAreRLadies) Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experiences in R.
+Each week, a different R-Lady takes over the [\@WeAreRLadies](https://twitter.com/WeAreRLadies) Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.
 
-From October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and received over 400 likes!
+From October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!
 
 <blockquote class="twitter-tweet">
 

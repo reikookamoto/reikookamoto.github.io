@@ -21,6 +21,13 @@
     "text": "Experience\n\nNational Research Council Canada, Data Analytics Center | Ottawa, ON\nData Scientist | March 2022 - Present\nMinistry of Health, Office of the Provincial Health Officer | Victoria, BC\nSenior Data Analyst | September 2021 - February 2022\nData Analyst | August 2020 - September 2021"
   },
   {
+    "objectID": "outreach/2020-09-02_ubc-mds-alumni/index.html",
+    "href": "outreach/2020-09-02_ubc-mds-alumni/index.html",
+    "title": "How to thrive in the Master of Data Science program",
+    "section": "",
+    "text": "I was invited to speak to the Class of 2021 about my experience in the UBC Master of Data Science program as part of their orientation week. I talked about effective study strategies in addition to job search techniques."
+  },
+  {
     "objectID": "outreach/2021-05-12_r-ladies-vancouver/index.html",
     "href": "outreach/2021-05-12_r-ladies-vancouver/index.html",
     "title": "Developing R packages for yourself and others",
@@ -67,7 +74,7 @@
     "href": "outreach/2022-10-17_r-ladies-rocur/index.html",
     "title": "R-Ladies RoCur (Rotating Curation)",
     "section": "",
-    "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experiences in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and received over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
+    "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
   },
   {
     "objectID": "outreach.html",
