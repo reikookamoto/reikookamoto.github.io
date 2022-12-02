@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Reiko Okamoto"
+  #title: "Reiko Okamoto"
   navbar:
     left:
       - href: index.qmd
