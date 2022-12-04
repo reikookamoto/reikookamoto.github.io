@@ -15,6 +15,35 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/reiko-okamoto-432273a4
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@shinkansen
 ---
 
-Under construction
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+## Nice to meet you!
+
+My name is Reiko and I am a creative and curious implementer passionate about reproducible research and data analysis.
+
+I find a lot of joy in building tools to improve workflow, whether it's an R package to make plots consistent with an organization's style guide or a pipeline to automate the rendering of weekly reports.
+
+In my spare time, you can probably find me playing the bass or reading up on sustainable transportation (hence the bullet train in the browser tab).
+
+## Experience
+
+<p>`r fa('laptop')` Data Scientist, Mar 2022 - Present<br> <small class="text-muted">National Research Council Canada, Ottawa, ON</small></p>
+
+<p>`r fa('laptop')` Senior Data Analyst, Sep 2021 - Feb 2022<br> <small class="text-muted">Ministry of Health, Victoria, BC</small></p>
+
+<p>`r fa('laptop')` Data Analyst, Aug 2020 - Sep 2021<br> <small class="text-muted">Ministry of Health, Victoria, BC</small></p>
+
+## Education
+
+<p>`r fa('graduation-cap')` Master of Data Science, 2020 <br> <small class="text-muted">The University of British Columbia</small></p>
+
+<p>`r fa('graduation-cap')` BSc Microbiology and Immunology, 2018 <br> <small class="text-muted">The University of British Columbia</small></p>

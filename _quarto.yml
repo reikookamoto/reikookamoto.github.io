@@ -1,19 +1,28 @@
 project:
   type: website
   output-dir: docs
+  
 website:
-  title: "Reiko Okamoto"
+  #title: "Reiko Okamoto"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: outreach.qmd
+        text: Outreach
+      - href: software.qmd
+        text: Software
+      #- href: CV/reiko_okamoto.pdf
+      #  text: CV
+  favicon: bullet-train_1f685.png
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 
 editor: visual
 
+execute:
+  freeze: auto

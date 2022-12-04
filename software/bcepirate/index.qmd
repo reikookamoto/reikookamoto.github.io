@@ -1,0 +1,21 @@
+---
+title: "bcEpiRate"
+description: |
+  An R package for calculating standardized rates in population health surveillance and epidemiology
+author:
+  - name: Reiko Okamoto
+    affiliation: Government of British Columbia
+  - name: Henry Ngo
+    affiliation: Government of British Columbia
+  - name: Ioana Sevcenco
+    affiliation: Government of British Columbia
+image: logo.png
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-outline-primary" href="https://github.com/bcgov/bcEpiRate">`r fa("github")` Code</a>
