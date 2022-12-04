@@ -26,7 +26,13 @@ about:
 library(fontawesome)
 ```
 
-Under construction
+## Nice to meet you!
+
+My name is Reiko and I am a creative and curious implementer passionate about reproducible research and data analysis.
+
+I find a lot of joy in building tools to improve workflow, whether it's an R package to make plots consistent with an organization's style guide or a pipeline to automate the rendering of weekly reports.
+
+In my spare time, you can probably find me playing the bass or reading up on sustainable transportation (hence the bullet train in the browser tab).
 
 ## Experience
 

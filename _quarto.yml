@@ -12,8 +12,8 @@ website:
         text: Outreach
       - href: software.qmd
         text: Software
-      - href: CV/reiko_okamoto.pdf
-        text: CV
+      #- href: CV/reiko_okamoto.pdf
+      #  text: CV
   favicon: bullet-train_1f685.png
 
 format:
