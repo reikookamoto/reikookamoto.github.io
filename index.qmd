@@ -2,7 +2,7 @@
 title: "Reiko Okamoto"
 about:
   template: trestles
-  image: a5be80d32aa27c56eacd26ac5503320a.jpg
+  image: headshot.jpg
   image-shape: rounded
   image-width: 15em
   links:
