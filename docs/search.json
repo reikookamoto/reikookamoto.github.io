@@ -7,11 +7,18 @@
     "text": "My name is Reiko and I am a creative and curious implementer passionate about reproducible research and data analysis.\nI find a lot of joy in building tools to improve workflows, whether it’s an R package to make plots consistent with an organization’s style guide or a pipeline to automate the creation of weekly reports.\nIn my spare time, you can probably find me playing the bass or reading up on sustainable transportation."
   },
   {
+    "objectID": "index.html#nice-to-meet-you",
+    "href": "index.html#nice-to-meet-you",
+    "title": "Reiko Okamoto",
+    "section": "",
+    "text": "My name is Reiko and I am a creative and curious implementer passionate about reproducible research and data analysis.\nI find a lot of joy in building tools to improve workflows, whether it’s an R package to make plots consistent with an organization’s style guide or a pipeline to automate the creation of weekly reports.\nIn my spare time, you can probably find me playing the bass or reading up on sustainable transportation."
+  },
+  {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Reiko Okamoto",
     "section": "Experience",
-    "text": "Experience\n\n Data Scientist, Mar 2022 - Present National Research Council Canada, Ottawa, ON\n\n\n Senior Data Analyst, Sep 2021 - Feb 2022 Ministry of Health, Victoria, BC\n\n\n Data Analyst, Aug 2020 - Sep 2021 Ministry of Health, Victoria, BC"
+    "text": "Experience\n\n Methodologist, Sep 2023 - Present Bruyère Research Institute, Ottawa, ON\n\n\n Data Scientist, Mar 2022 - Sep 2023  National Research Council Canada, Ottawa, ON\n\n\n Senior Data Analyst, Sep 2021 - Feb 2022 Ministry of Health, Victoria, BC\n\n\n Data Analyst, Aug 2020 - Sep 2021 Ministry of Health, Victoria, BC"
   },
   {
     "objectID": "index.html#education",
@@ -23,6 +30,13 @@
   {
     "objectID": "outreach/2020-09-02_ubc-mds-alumni/index.html",
     "href": "outreach/2020-09-02_ubc-mds-alumni/index.html",
+    "title": "How to thrive in the Master of Data Science program",
+    "section": "",
+    "text": "I was invited to speak to the Class of 2021 about my experience in the UBC Master of Data Science program as part of their orientation week. I talked about effective study strategies in addition to job search techniques."
+  },
+  {
+    "objectID": "outreach/2020-09-02_ubc-mds-alumni/index.html#summary",
+    "href": "outreach/2020-09-02_ubc-mds-alumni/index.html#summary",
     "title": "How to thrive in the Master of Data Science program",
     "section": "",
     "text": "I was invited to speak to the Class of 2021 about my experience in the UBC Master of Data Science program as part of their orientation week. I talked about effective study strategies in addition to job search techniques."
@@ -77,11 +91,18 @@
     "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
   },
   {
+    "objectID": "outreach/2022-10-17_r-ladies-rocur/index.html#summary",
+    "href": "outreach/2022-10-17_r-ladies-rocur/index.html#summary",
+    "title": "R-Ladies RoCur (Rotating Curation)",
+    "section": "",
+    "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
+  },
+  {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Curating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "R-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",
@@ -95,6 +116,6 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "An R package for calculating standardized rates in population health surveillance and epidemiology\n\n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
+    "text": "bcEpiRate\n\n\n\n\n\nAn R package for calculating standardized rates in population health surveillance and epidemiology\n\n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
   }
 ]
