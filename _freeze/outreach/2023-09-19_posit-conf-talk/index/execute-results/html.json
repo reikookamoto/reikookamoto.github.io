@@ -1,0 +1,16 @@
+{
+  "hash": "6a6d5f695fa5ded500fd59ff1b792e3d",
+  "result": {
+    "markdown": "---\ntitle: \"What an early 2000s reality show taught me about file management\"\ndescription: |\n  A talk given at posit::conf(2023)\nauthor:\n  - name: Reiko Okamoto\ndate: 2023-09-19\nimage: posit-conf2023-hexwall2.jpg\n---\n\n\n\n\n## Abstract\n\nIdeas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\n\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data.\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -36,7 +36,9 @@ In my spare time, you can probably find me playing the bass or reading up on sus
 
 ## Experience
 
-<p>`r fa('laptop')` Data Scientist, Mar 2022 - Present<br> <small class="text-muted">National Research Council Canada, Ottawa, ON</small></p>
+<p>`r fa('laptop')` Methodologist, Sep 2023 - Present<br> <small class="text-muted">Bruyère Research Institute, Ottawa, ON</small></p>
+
+<p>`r fa('laptop')` Data Scientist, Mar 2022 - Sep 2023 <br> <small class="text-muted">National Research Council Canada, Ottawa, ON</small></p>
 
 <p>`r fa('laptop')` Senior Data Analyst, Sep 2021 - Feb 2022<br> <small class="text-muted">Ministry of Health, Victoria, BC</small></p>
 
