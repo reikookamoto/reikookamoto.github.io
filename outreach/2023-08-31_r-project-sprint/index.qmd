@@ -1,0 +1,20 @@
+---
+title: "R Project Sprint 2023"
+description: Collaborating on contributions to base R
+author:
+  name: Reiko Okamoto
+date: 2023-08-31
+image: brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-outline-primary" href="https://contributor.r-project.org/r-project-sprint-2023/">`r fa("link")` Event page</a>
+
+## Summary
+
+I participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English-to-Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments.
