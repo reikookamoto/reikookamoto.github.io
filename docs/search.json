@@ -98,6 +98,20 @@
     "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
   },
   {
+    "objectID": "outreach/2023-08-31_r-project-sprint/index.html",
+    "href": "outreach/2023-08-31_r-project-sprint/index.html",
+    "title": "R Project Sprint 2023",
+    "section": "",
+    "text": "Event page"
+  },
+  {
+    "objectID": "outreach/2023-08-31_r-project-sprint/index.html#summary",
+    "href": "outreach/2023-08-31_r-project-sprint/index.html#summary",
+    "title": "R Project Sprint 2023",
+    "section": "Summary",
+    "text": "Summary\nI participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English to Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments."
+  },
+  {
     "objectID": "outreach/2023-09-19_posit-conf-talk/index.html",
     "href": "outreach/2023-09-19_posit-conf-talk/index.html",
     "title": "What an early 2000s reality show taught me about file management",
@@ -116,7 +130,7 @@
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "What an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "What an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",
