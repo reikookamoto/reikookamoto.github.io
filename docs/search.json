@@ -98,11 +98,25 @@
     "text": "Each week, a different R-Lady takes over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators come from a diversity of professions and have a wide range of experience in R.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received and got over 400 likes!\n\n\n(1/n) A fun and practical idea for an R package: a #ggplot2 extension to modify plots so they adhere to an organization’s visual identity 📊📈📉⬇️\n\n— We are R-Ladies (@WeAreRLadies) October 19, 2022"
   },
   {
+    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html",
+    "href": "outreach/2023-09-19_posit-conf-talk/index.html",
+    "title": "What an early 2000s reality show taught me about file management",
+    "section": "",
+    "text": "Ideas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
+  },
+  {
+    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
+    "href": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
+    "title": "What an early 2000s reality show taught me about file management",
+    "section": "",
+    "text": "Ideas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
+  },
+  {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "R-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "What an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",
