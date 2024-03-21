@@ -1,0 +1,22 @@
+---
+title: "nRc: a collaborative coding group "
+description: Coding workshops for the NRC Women in Science & Innovation peer group
+author:
+  name: Reiko Okamoto
+date: 2023-06-15
+image: christin-hume-Hcfwew744z4-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-outline-primary" href="https://github.com/reikookamoto/nRc-WiSI">`r fa("github")` GitHub repository </a>
+
+## Summary
+
+As part of the Women in Science and Innovation peer group at National Research Council Canada (NRC), I noticed that there was a strong interest in an introductory R programming course. Alongside my colleagues, Jenna Mackinnon and Solenn Mordret, I co-organized a four-part virtual workshop covering the fundamentals and data wrangling and visualization using popular R packages like dplyr and ggplot2. Our priority was to create a welcoming environment, assisting participants with software installation and providing communication in both official languages.
+
+With over 50 women participating from various cities and research centers across Canada, our initiative garnered recognition from NRC executives. As a result, my co-organizers and I were invited to participate in a panel discussion focused on coding at the [Celebrating the Success of Women in STEM Symposium](https://nrc.canada.ca/en/corporate/events/welcome-2024-celebrating-success-women-stem-symposium), held on February 9, 2024.
