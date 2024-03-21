@@ -15,6 +15,8 @@ library(knitr)
 library(fontawesome)
 ```
 
+<a class="btn btn-outline-primary" href="https://youtu.be/J3bxE4y8_Dg?si=qPf4zbWH7RBcXxoT">`r fa("youtube")` Recording</a>
+
 ## Abstract
 
 Ideas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.

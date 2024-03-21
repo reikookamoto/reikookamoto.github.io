@@ -109,28 +109,28 @@
     "href": "outreach/2023-08-31_r-project-sprint/index.html#summary",
     "title": "R Project Sprint 2023",
     "section": "Summary",
-    "text": "Summary\nI participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English to Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments."
+    "text": "Summary\nI participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English-to-Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments."
   },
   {
     "objectID": "outreach/2023-09-19_posit-conf-talk/index.html",
     "href": "outreach/2023-09-19_posit-conf-talk/index.html",
     "title": "What an early 2000s reality show taught me about file management",
     "section": "",
-    "text": "Ideas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
+    "text": "Recording"
   },
   {
     "objectID": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
     "href": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
     "title": "What an early 2000s reality show taught me about file management",
-    "section": "",
-    "text": "Ideas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
+    "section": "Abstract",
+    "text": "Abstract\nIdeas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
   },
   {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "What an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction to R and the tidyverse\n\n\nA three-part virtual workshop for R-Ladies Ottawa\n\n\n\nReiko Okamoto\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnRc: a collaborative coding group\n\n\nCoding workshops for the NRC Women in Science & Innovation peer group\n\n\n\nReiko Okamoto\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",
@@ -145,5 +145,40 @@
     "title": "Software",
     "section": "",
     "text": "bcEpiRate\n\n\n\n\n\nAn R package for calculating standardized rates in population health surveillance and epidemiology\n\n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outreach/2023-06-15_nrc/index.html",
+    "href": "outreach/2023-06-15_nrc/index.html",
+    "title": "nRc: a collaborative coding group",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "outreach/2023-06-15_nrc/index.html#summary",
+    "href": "outreach/2023-06-15_nrc/index.html#summary",
+    "title": "nRc: a collaborative coding group",
+    "section": "Summary",
+    "text": "Summary\nAs part of the Women in Science and Innovation peer group at National Research Council Canada (NRC), I noticed that there was a strong interest in an introductory R programming course. Alongside my colleagues, Jenna Mackinnon and Solenn Mordret, I co-organized a four-part virtual workshop covering the fundamentals and data wrangling and visualization using popular R packages like dplyr and ggplot2. Our priority was to create a welcoming environment, assisting participants with software installation and providing communication in both official languages.\nWith over 50 women participating from various cities and research centers across Canada, our initiative garnered recognition from NRC executives. As a result, my co-organizers and I were invited to participate in a panel discussion focused on coding at the Celebrating the Success of Women in STEM Symposium, held on February 9, 2024."
+  },
+  {
+    "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html",
+    "href": "outreach/2024-01-25_r-ladies-ottawa/index.html",
+    "title": "Introduction to R and the tidyverse",
+    "section": "",
+    "text": "Recording (session 1)  Recording (session 2)  Recording (session 3)"
+  },
+  {
+    "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html#abstract",
+    "href": "outreach/2024-01-25_r-ladies-ottawa/index.html#abstract",
+    "title": "Developing R packages for yourself and others",
+    "section": "Abstract",
+    "text": "Abstract\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
+  },
+  {
+    "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html#summary",
+    "href": "outreach/2024-01-25_r-ladies-ottawa/index.html#summary",
+    "title": "Introduction to R and the tidyverse",
+    "section": "Summary",
+    "text": "Summary\nAs a member of the R-Ladies Ottawa chapter, I developed and led a series of virtual workshops aimed at introducing novice programmers to R and popular packages in the tidyverse. These sessions attracted participants not only from Ottawa but also from around the world. With the help of R-Ladies Global, we were able to test drive their Posit Cloud space, eliminating the need for participants to configure dedicated hardware or install software on their local machines."
   }
 ]

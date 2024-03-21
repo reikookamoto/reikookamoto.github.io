@@ -15,10 +15,9 @@ image: chuttersnap-fyaTq-fIlro-unsplash.jpg
 library(fontawesome)
 ```
 
-<div class="container">
-  <a class="btn btn-outline-primary" href="https://youtu.be/5lCIlV_7qR4">`r fa("youtube")` Recording</a>
-  <a class="btn btn-outline-primary" href="https://www.meetup.com/rladies-vancouver/events/277941047/">`r fa("meetup")` Event page</a>
-</div>
+::: container
+<a class="btn btn-outline-primary" href="https://youtu.be/5lCIlV_7qR4">`r fa("youtube")` Recording</a> <a class="btn btn-outline-primary" href="https://www.meetup.com/rladies-vancouver/events/277941047/">`r fa("meetup")` Event page</a>
+:::
 
 ## Abstract
 
