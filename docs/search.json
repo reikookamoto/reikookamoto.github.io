@@ -130,7 +130,7 @@
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Introduction to R and the tidyverse\n\n\nA three-part virtual workshop for R-Ladies Ottawa\n\n\n\nReiko Okamoto\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnRc: a collaborative coding group\n\n\nCoding workshops for the NRC Women in Science & Innovation peer group\n\n\n\nReiko Okamoto\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research\n\n\nA lightning talk given at useR! 2024\n\n\n\nReiko Okamoto\n\n\nJul 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R and the tidyverse\n\n\nA three-part virtual workshop for R-Ladies Ottawa\n\n\n\nReiko Okamoto\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnRc: a collaborative coding group\n\n\nCoding workshops for the NRC Women in Science & Innovation peer group\n\n\n\nReiko Okamoto\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software/bcepirate/index.html",
@@ -144,7 +144,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "bcEpiRate\n\n\n\n\n\nAn R package for calculating standardized rates in population health surveillance and epidemiology\n\n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
+    "text": "bcEpiRate\n\n\n\n\n\nAn R package for calculating standardized rates in population health surveillance and epidemiology \n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "outreach/2023-06-15_nrc/index.html",
@@ -180,5 +180,19 @@
     "title": "Introduction to R and the tidyverse",
     "section": "Summary",
     "text": "Summary\nAs a member of the R-Ladies Ottawa chapter, I developed and led a series of virtual workshops aimed at introducing novice programmers to R and popular packages in the tidyverse. These sessions attracted participants not only from Ottawa but also from around the world. With the help of R-Ladies Global, we were able to test drive their Posit Cloud space, eliminating the need for participants to configure dedicated hardware or install software on their local machines."
+  },
+  {
+    "objectID": "outreach/2024-07-09_user-salzburg/index.html",
+    "href": "outreach/2024-07-09_user-salzburg/index.html",
+    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "section": "",
+    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
+  },
+  {
+    "objectID": "outreach/2024-07-09_user-salzburg/index.html#abstract",
+    "href": "outreach/2024-07-09_user-salzburg/index.html#abstract",
+    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "section": "",
+    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
   }
 ]

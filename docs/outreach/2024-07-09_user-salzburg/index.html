@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Reiko Okamoto">
-<meta name="dcterms.date" content="2023-08-31">
-<meta name="description" content="Collaborating on contributions to base R">
+<meta name="dcterms.date" content="2024-07-09">
+<meta name="description" content="A lightning talk given at useR! 2024">
 
-<title>R Project Sprint 2023</title>
+<title>Table talk: Designing a workflow for reproducible table creation in R for epidemiological research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -115,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
   </ul>
 </nav>
     </div>
@@ -124,12 +124,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">R Project Sprint 2023</h1>
+<h1 class="title">Table talk: Designing a workflow for reproducible table creation in R for epidemiological research</h1>
 </div>
 
 <div>
   <div class="description">
-    Collaborating on contributions to base R
+    <p>A lightning talk given at useR! 2024</p>
   </div>
 </div>
 
@@ -146,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 31, 2023</p>
+      <p class="date">July 9, 2024</p>
     </div>
   </div>
   
@@ -158,10 +158,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a class="btn btn-outline-primary" href="https://contributor.r-project.org/r-project-sprint-2023/"><svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z"></path></svg> Event page</a></p>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>I participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English-to-Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines.</p>
 
 
 </section>
