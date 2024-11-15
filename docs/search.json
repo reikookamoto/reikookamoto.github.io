@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "talks-workshops.html",
+    "href": "talks-workshops.html",
+    "title": "Talks & workshops",
+    "section": "",
+    "text": "Developing R packages for yourself and others\n\n\n\nworkshops\n\n\nr-ladies\n\n\n\nA workshop with R-Ladies Seattle\n\n\n\n\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\n\ntalks\n\n\n\nA talk at Cascadia R Conf 2021\n\n\n\n\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\n\nworkshops\n\n\nr-ladies\n\n\n\nA workshop with R-Ladies Vancouver\n\n\n\n\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the UBC Master of Data Science program\n\n\n\ntalks\n\n\n\nAdvice from an alum\n\n\n\n\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks-workshops/2021-06-05_r-cascadia/index.html",
+    "href": "talks-workshops/2021-06-05_r-cascadia/index.html",
+    "title": "Bringing analysts and technical writers together through internal packages",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "talks-workshops/2021-06-05_r-cascadia/index.html#audience",
+    "href": "talks-workshops/2021-06-05_r-cascadia/index.html#audience",
+    "title": "Bringing analysts and technical writers together through internal packages",
+    "section": "Audience",
+    "text": "Audience"
+  },
+  {
+    "objectID": "talks-workshops/2021-06-05_r-cascadia/index.html#abstract",
+    "href": "talks-workshops/2021-06-05_r-cascadia/index.html#abstract",
+    "title": "Bringing analysts and technical writers together through internal packages",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "talks-workshops/2020-09-02_ubc-mds-alumni/index.html",
+    "href": "talks-workshops/2020-09-02_ubc-mds-alumni/index.html",
+    "title": "How to thrive in the UBC Master of Data Science program",
+    "section": "",
+    "text": "I was invited to speak to the Class of 2021 during their orientation week. I shared insights from my experience in the program, focusing on effective study habits and job searching strategies."
+  },
+  {
+    "objectID": "talks-workshops/2020-09-02_ubc-mds-alumni/index.html#summary",
+    "href": "talks-workshops/2020-09-02_ubc-mds-alumni/index.html#summary",
+    "title": "How to thrive in the UBC Master of Data Science program",
+    "section": "",
+    "text": "I was invited to speak to the Class of 2021 during their orientation week. I shared insights from my experience in the program, focusing on effective study habits and job searching strategies."
+  },
+  {
+    "objectID": "outreach/2024-07-09_user-salzburg/index.html",
+    "href": "outreach/2024-07-09_user-salzburg/index.html",
+    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "section": "",
+    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
+  },
+  {
+    "objectID": "outreach/2024-07-09_user-salzburg/index.html#abstract",
+    "href": "outreach/2024-07-09_user-salzburg/index.html#abstract",
+    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "section": "",
+    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
+  },
+  {
+    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html",
+    "href": "outreach/2023-09-19_posit-conf-talk/index.html",
+    "title": "What an early 2000s reality show taught me about file management",
+    "section": "",
+    "text": "Recording"
+  },
+  {
+    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
+    "href": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
+    "title": "What an early 2000s reality show taught me about file management",
+    "section": "Abstract",
+    "text": "Abstract\nIdeas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
+  },
+  {
+    "objectID": "outreach/2023-06-15_nrc/index.html",
+    "href": "outreach/2023-06-15_nrc/index.html",
+    "title": "nRc: a collaborative coding group",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "outreach/2023-06-15_nrc/index.html#summary",
+    "href": "outreach/2023-06-15_nrc/index.html#summary",
+    "title": "nRc: a collaborative coding group",
+    "section": "Summary",
+    "text": "Summary\nAs part of the Women in Science and Innovation peer group at National Research Council Canada (NRC), I noticed that there was a strong interest in an introductory R programming course. Alongside my colleagues, Jenna Mackinnon and Solenn Mordret, I co-organized a four-part virtual workshop covering the fundamentals and data wrangling and visualization using popular R packages like dplyr and ggplot2. Our priority was to create a welcoming environment, assisting participants with software installation and providing communication in both official languages.\nWith over 50 women participating from various cities and research centers across Canada, our initiative garnered recognition from NRC executives. As a result, my co-organizers and I were invited to participate in a panel discussion focused on coding at the Celebrating the Success of Women in STEM Symposium, held on February 9, 2024."
+  },
+  {
+    "objectID": "outreach/2021-10-05_r-ladies-seattle/index.html",
+    "href": "outreach/2021-10-05_r-ladies-seattle/index.html",
+    "title": "Developing R packages for yourself and others",
+    "section": "",
+    "text": "Event page"
+  },
+  {
+    "objectID": "outreach/2021-10-05_r-ladies-seattle/index.html#abstract",
+    "href": "outreach/2021-10-05_r-ladies-seattle/index.html#abstract",
+    "title": "Developing R packages for yourself and others",
+    "section": "Abstract",
+    "text": "Abstract\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reiko Okamoto",
@@ -28,34 +126,6 @@
     "text": "Education\n\n Master of Data Science, 2020  The University of British Columbia\n\n\n BSc Microbiology and Immunology, 2018  The University of British Columbia"
   },
   {
-    "objectID": "outreach/2020-09-02_ubc-mds-alumni/index.html",
-    "href": "outreach/2020-09-02_ubc-mds-alumni/index.html",
-    "title": "How to thrive in the Master of Data Science program",
-    "section": "",
-    "text": "I was invited to speak to the Class of 2021 about my experience in the UBC Master of Data Science program as part of their orientation week. I talked about effective study strategies in addition to job search techniques."
-  },
-  {
-    "objectID": "outreach/2020-09-02_ubc-mds-alumni/index.html#summary",
-    "href": "outreach/2020-09-02_ubc-mds-alumni/index.html#summary",
-    "title": "How to thrive in the Master of Data Science program",
-    "section": "",
-    "text": "I was invited to speak to the Class of 2021 about my experience in the UBC Master of Data Science program as part of their orientation week. I talked about effective study strategies in addition to job search techniques."
-  },
-  {
-    "objectID": "outreach/2021-05-12_r-ladies-vancouver/index.html",
-    "href": "outreach/2021-05-12_r-ladies-vancouver/index.html",
-    "title": "Developing R packages for yourself and others",
-    "section": "",
-    "text": "Recording  Event page"
-  },
-  {
-    "objectID": "outreach/2021-05-12_r-ladies-vancouver/index.html#abstract",
-    "href": "outreach/2021-05-12_r-ladies-vancouver/index.html#abstract",
-    "title": "Developing R packages for yourself and others",
-    "section": "Abstract",
-    "text": "Abstract\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
-  },
-  {
     "objectID": "outreach/2021-06-05_r-cascadia/index.html",
     "href": "outreach/2021-06-05_r-cascadia/index.html",
     "title": "Bringing analysts and technical writers together through internal packages",
@@ -68,20 +138,6 @@
     "title": "Bringing analysts and technical writers together through internal packages",
     "section": "Abstract",
     "text": "Abstract\nRestructuring frequently used code snippets into well-organized internal packages is easier said than done. In this presentation, we share useful tools for package development and our approach to planning a package before writing the first line of code. We will discuss how to overcome challenges in this pre-coding phase, which is not as well documented as the technical aspects of the package development process. How do you find out what is it exactly that your team needs? How do you encourage team members to adopt the package and spread R culture? We answer these questions through a case study reflecting on our team’s experience creating a ggplot2 extension to meet the organization’s style guide for healthcare utilization reports. This package allows our analysts to focus on identifying trends in the data to share with the writing team instead of modifying their plots to get their look and feel right each time. Furthermore, this package has fostered an environment of collaboration by acting as a bridge between the analysts and technical writers in our organization."
-  },
-  {
-    "objectID": "outreach/2021-10-05_r-ladies-seattle/index.html",
-    "href": "outreach/2021-10-05_r-ladies-seattle/index.html",
-    "title": "Developing R packages for yourself and others",
-    "section": "",
-    "text": "Event page"
-  },
-  {
-    "objectID": "outreach/2021-10-05_r-ladies-seattle/index.html#abstract",
-    "href": "outreach/2021-10-05_r-ladies-seattle/index.html#abstract",
-    "title": "Developing R packages for yourself and others",
-    "section": "Abstract",
-    "text": "Abstract\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
   },
   {
     "objectID": "outreach/2022-10-17_r-ladies-rocur/index.html",
@@ -112,67 +168,11 @@
     "text": "Summary\nI participated in the R Project Sprint hosted at the University of Warwick, UK, from August 30 to September 1, 2023. I had the pleasure of being one of 46 participants to work alongside members of the R Core Team and collaboratively make contributions to base R. This involved tasks like fixing bugs and improving documentation. It was a wonderful opportunity to experience and appreciate the extensive coordination that is required to maintain open-source software. Personally, I had a great time assisting with the English-to-Japanese translation of messages (e.g., errors, warnings) while hearing about the experiences of others who use and teach R in non-English environments."
   },
   {
-    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html",
-    "href": "outreach/2023-09-19_posit-conf-talk/index.html",
-    "title": "What an early 2000s reality show taught me about file management",
-    "section": "",
-    "text": "Recording"
-  },
-  {
-    "objectID": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
-    "href": "outreach/2023-09-19_posit-conf-talk/index.html#abstract",
-    "title": "What an early 2000s reality show taught me about file management",
-    "section": "Abstract",
-    "text": "Abstract\nIdeas from home organization shows are surprisingly applicable to file management. Using a room divider to establish dedicated zones for different activities in a studio apartment is analogous to creating self-contained projects in RStudio. Likewise, swapping mismatched hangers with matching ones to tidy a closet resembles the adoption of a file naming convention to make a directory easier to navigate.\nIn this talk, I will share good practices in file management through the lens of home organization. We all know that clutter, whether it is in our physical space or on our machine, destroys our ability to focus. These practices will help R users of all levels create a serene, relaxing environment where they feel inspired to work with data."
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Outreach",
-    "section": "",
-    "text": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research\n\n\nA lightning talk given at useR! 2024\n\n\n\nReiko Okamoto\n\n\nJul 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R and the tidyverse\n\n\nA three-part virtual workshop for R-Ladies Ottawa\n\n\n\nReiko Okamoto\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnRc: a collaborative coding group\n\n\nCoding workshops for the NRC Women in Science & Innovation peer group\n\n\n\nReiko Okamoto\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Vancouver\n\n\n\nReiko Okamoto\n\n\nMay 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to thrive in the Master of Data Science program\n\n\nAdvice from an alum\n\n\n\nReiko Okamoto\n\n\nSep 2, 2020\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "software/bcepirate/index.html",
-    "href": "software/bcepirate/index.html",
-    "title": "bcEpiRate",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "bcEpiRate\n\n\n\n\n\nAn R package for calculating standardized rates in population health surveillance and epidemiology \n\n\n\n\n\nReiko Okamoto, Henry Ngo, Ioana Sevcenco\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach/2023-06-15_nrc/index.html",
-    "href": "outreach/2023-06-15_nrc/index.html",
-    "title": "nRc: a collaborative coding group",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "outreach/2023-06-15_nrc/index.html#summary",
-    "href": "outreach/2023-06-15_nrc/index.html#summary",
-    "title": "nRc: a collaborative coding group",
-    "section": "Summary",
-    "text": "Summary\nAs part of the Women in Science and Innovation peer group at National Research Council Canada (NRC), I noticed that there was a strong interest in an introductory R programming course. Alongside my colleagues, Jenna Mackinnon and Solenn Mordret, I co-organized a four-part virtual workshop covering the fundamentals and data wrangling and visualization using popular R packages like dplyr and ggplot2. Our priority was to create a welcoming environment, assisting participants with software installation and providing communication in both official languages.\nWith over 50 women participating from various cities and research centers across Canada, our initiative garnered recognition from NRC executives. As a result, my co-organizers and I were invited to participate in a panel discussion focused on coding at the Celebrating the Success of Women in STEM Symposium, held on February 9, 2024."
-  },
-  {
     "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html",
     "href": "outreach/2024-01-25_r-ladies-ottawa/index.html",
     "title": "Introduction to R and the tidyverse",
     "section": "",
     "text": "Recording (session 1)  Recording (session 2)  Recording (session 3)"
-  },
-  {
-    "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html#abstract",
-    "href": "outreach/2024-01-25_r-ladies-ottawa/index.html#abstract",
-    "title": "Developing R packages for yourself and others",
-    "section": "Abstract",
-    "text": "Abstract\nR packages are a collection of functions, documentation, and sample data. Not only do they provide an excellent framework for organizing your code, but they also make it easier to share code with other R users. In this virtual workshop, we will develop a simple R package to gain an understanding of the development process. I will also reflect on my experiences creating an internal package on behalf of my colleagues at the BC Ministry of Health. I hope to shed light on the lesser-known non-technical aspects of package development by discussing how to identify what tools your teammates need to succeed and how to encourage them to adopt your package. This workshop is geared towards (but not limited to) those who are new to developing packages and those who are considering creating one to share within their organization and beyond."
   },
   {
     "objectID": "outreach/2024-01-25_r-ladies-ottawa/index.html#summary",
@@ -182,17 +182,38 @@
     "text": "Summary\nAs a member of the R-Ladies Ottawa chapter, I developed and led a series of virtual workshops aimed at introducing novice programmers to R and popular packages in the tidyverse. These sessions attracted participants not only from Ottawa but also from around the world. With the help of R-Ladies Global, we were able to test drive their Posit Cloud space, eliminating the need for participants to configure dedicated hardware or install software on their local machines."
   },
   {
-    "objectID": "outreach/2024-07-09_user-salzburg/index.html",
-    "href": "outreach/2024-07-09_user-salzburg/index.html",
-    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
     "section": "",
-    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
+    "text": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research\n\n\nA lightning talk given at useR! 2024\n\n\n\nReiko Okamoto\n\n\nJul 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R and the tidyverse\n\n\nA three-part virtual workshop for R-Ladies Ottawa\n\n\n\nReiko Okamoto\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an early 2000s reality show taught me about file management\n\n\nA talk given at posit::conf(2023)\n\n\n\nReiko Okamoto\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Project Sprint 2023\n\n\nCollaborating on contributions to base R\n\n\n\nReiko Okamoto\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnRc: a collaborative coding group\n\n\nCoding workshops for the NRC Women in Science & Innovation peer group\n\n\n\nReiko Okamoto\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\nReiko Okamoto\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping R packages for yourself and others\n\n\nAn introduction to package development given to R-Ladies Seattle\n\n\n\nReiko Okamoto\n\n\nOct 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBringing analysts and technical writers together through internal packages\n\n\nA lightning talk given at Cascadia R Conf 2021\n\n\n\nReiko Okamoto\n\n\nJun 5, 2021\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "outreach/2024-07-09_user-salzburg/index.html#abstract",
-    "href": "outreach/2024-07-09_user-salzburg/index.html#abstract",
-    "title": "Table talk: Designing a workflow for reproducible table creation in R for epidemiological research",
+    "objectID": "talks-workshops/2021-05-12_r-ladies-vancouver/index.html",
+    "href": "talks-workshops/2021-05-12_r-ladies-vancouver/index.html",
+    "title": "Developing R packages for yourself and others",
     "section": "",
-    "text": "Summary tables are ubiquitous in scientific manuscripts reporting epidemiological and clinical studies. Table 1 often contains key demographic information about the study population, including the mean and standard deviation for continuous variables and frequency and proportion for categorical variables. Table 2 may present the association between the explanatory and outcome variables under investigation, and so on. Since there are endless ways (some more robust than others) to create analytical and summary tables in R, our research group wanted to define a workflow that could be adopted by colleagues of varying levels of proficiency in R to reproducibly create these tables from raw data. In this talk, I will share our approach in designing this workflow and what we discovered along the way. This will include a discussion on the current landscape of table-generating packages in R and how we overcame the limitations of existing software alongside other challenges (e.g., incorporating existing metadata). These strategies will not only be useful to researchers in epidemiology but also relevant for those in other health and social science disciplines."
+    "text": "Recording   Event page"
+  },
+  {
+    "objectID": "talks-workshops/2021-05-12_r-ladies-vancouver/index.html#summary",
+    "href": "talks-workshops/2021-05-12_r-ladies-vancouver/index.html#summary",
+    "title": "Developing R packages for yourself and others",
+    "section": "Summary",
+    "text": "Summary\nIn this 2-hour virtual workshop, participants developed a simple R package to gain hands-on experience, following best practices outlined in R Packages by Hadley Wickham and Jennifer Bryan.\nIn addition to covering the technical aspects of package development (e.g., structuring, documenting, and testing code), I shared insights from my experience developing an R package for the Office of the Provincial Health Officer in British Columbia. This included strategies for aligning features with the needs of a team and encouraging package adoption within an organization.\nParticipants left the workshop with both practical skills for creating R packages and actionable tips for fostering collaboration in professional settings."
+  },
+  {
+    "objectID": "talks-workshops/2021-10-05_r-ladies-seattle/index.html",
+    "href": "talks-workshops/2021-10-05_r-ladies-seattle/index.html",
+    "title": "Developing R packages for yourself and others",
+    "section": "",
+    "text": "Event page"
+  },
+  {
+    "objectID": "talks-workshops/2021-10-05_r-ladies-seattle/index.html#summary",
+    "href": "talks-workshops/2021-10-05_r-ladies-seattle/index.html#summary",
+    "title": "Developing R packages for yourself and others",
+    "section": "Summary",
+    "text": "Summary\nI was invited by R-Ladies Seattle after delivering a similar session to the Vancouver chapter.\nIn this 2-hour virtual workshop, participants developed a simple R package to gain hands-on experience, following best practices outlined in R Packages by Hadley Wickham and Jennifer Bryan.\nIn addition to covering the technical aspects of package development (e.g., structuring, documenting, and testing code), I shared insights from my experience developing an R package for the Office of the Provincial Health Officer in British Columbia. This included strategies for aligning features with the needs of a team and encouraging package adoption within an organization.\nParticipants left the workshop with both practical skills for creating R packages and actionable tips for fostering collaboration in professional settings."
   }
 ]

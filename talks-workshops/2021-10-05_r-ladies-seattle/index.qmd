@@ -1,0 +1,38 @@
+---
+title: "Developing R packages for yourself and others"
+toc: false
+description: |
+  A workshop with R-Ladies Seattle
+date: 2021-10-05
+categories: [workshops, r-ladies]
+image: michal-balog-66NaCdBrkCs-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="https://www.meetup.com/rladies-seattle/events/280927919/">`r fa("meetup")` 
+Event page</a>
+
+## Summary 
+
+I was invited by R-Ladies Seattle after delivering a similar session to the 
+Vancouver chapter.
+
+In this 2-hour virtual workshop, participants developed a simple R package to 
+gain hands-on experience, following best practices 
+outlined in [*R Packages*](https://r-pkgs.org/) by Hadley Wickham and Jennifer 
+Bryan. 
+
+In addition to covering the technical aspects of package development (e.g., 
+structuring, documenting, and testing code), I shared insights from my 
+experience developing an R package for the Office of the Provincial Health 
+Officer in British Columbia. This included strategies for aligning features with 
+the needs of a team and encouraging package adoption within an organization.
+
+Participants left the workshop with both practical skills for creating R 
+packages and actionable tips for fostering collaboration in professional 
+settings.

@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/talks-workshops.html",
+    "items": [
+      "/talks-workshops/2021-10-05_r-ladies-seattle/index.html",
+      "/talks-workshops/2021-06-05_r-cascadia/index.html",
+      "/talks-workshops/2021-05-12_r-ladies-vancouver/index.html",
+      "/talks-workshops/2020-09-02_ubc-mds-alumni/index.html"
+    ]
+  },
+  {
     "listing": "/outreach.html",
     "items": [
       "/outreach/2024-07-09_user-salzburg/index.html",
@@ -9,15 +18,7 @@
       "/outreach/2023-06-15_nrc/index.html",
       "/outreach/2022-10-17_r-ladies-rocur/index.html",
       "/outreach/2021-10-05_r-ladies-seattle/index.html",
-      "/outreach/2021-06-05_r-cascadia/index.html",
-      "/outreach/2021-05-12_r-ladies-vancouver/index.html",
-      "/outreach/2020-09-02_ubc-mds-alumni/index.html"
-    ]
-  },
-  {
-    "listing": "/software.html",
-    "items": [
-      "/software/bcepirate/index.html"
+      "/outreach/2021-06-05_r-cascadia/index.html"
     ]
   }
 ]

@@ -3,26 +3,25 @@ project:
   output-dir: docs
   
 website:
-  #title: "Reiko Okamoto"
+  title: "Reiko Okamoto"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: outreach.qmd
-        text: Outreach
-      - href: software.qmd
-        text: Software
-      #- href: CV/reiko_okamoto.pdf
-      #  text: CV
-  favicon: bullet-train_1f685.png
+      - href: talks-workshops.qmd
+      - href: community-involvement.qmd
+    right:
+      - icon: github
+        href: https://github.com/reikookamoto/reikookamoto.github.io
+        target: _blank
+  favicon: media/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png
 
 format:
   html:
-    theme: [cosmo, custom.scss]
-    css: styles.css
+    theme: [flatly, styles.scss]
+    mainfont: Nunito
     toc: true
-
-editor: visual
+    page-layout: full
 
 execute:
   freeze: auto

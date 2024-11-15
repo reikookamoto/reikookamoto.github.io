@@ -1,0 +1,14 @@
+---
+title: "How to thrive in the UBC Master of Data Science program"
+description: |
+  Advice from an alum
+date: 2020-09-02
+categories: talks
+image: owen-yin-KYIZbdm2dsU-unsplash.jpg
+---
+
+## Summary
+
+I was invited to speak to the Class of 2021 during their orientation week. I 
+shared insights from my experience in the program, focusing on effective study 
+habits and job searching strategies.

@@ -1,23 +1,23 @@
 ---
 title: "Reiko Okamoto"
+toc: false
 about:
   template: trestles
   image: headshot.jpg
   image-shape: rounded
   image-width: 15em
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:reiko.okamoto17@gmail.com
     - icon: github 
       text: GitHub
       href: https://github.com/reikookamoto
+      target: _blank # open link in a new tab
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/reiko-okamoto-432273a4
-    - icon: mastodon
-      text: Mastodon
-      href: https://mastodon.social/@shinkansen
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:reiko.okamoto17@gmail.com
 ---
 
 ```{r}

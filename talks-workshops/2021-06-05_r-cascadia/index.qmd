@@ -1,0 +1,21 @@
+---
+title: "Bringing analysts and technical writers together through internal packages"
+toc: false
+description: |
+  A talk at Cascadia R Conf 2021
+date: 2021-06-05
+categories: talks
+image: etienne-girardet-RuMqg2cs-M0-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="https://youtu.be/XpIoSOgfC4A">`r fa("youtube")` Recording</a>
+
+## Audience
+
+## Abstract

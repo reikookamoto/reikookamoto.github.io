@@ -1,0 +1,8 @@
+---
+title: "Talks & workshops"
+listing: 
+  contents: talks-workshops
+  type: grid
+  sort: "date desc"
+  categories: true
+---
