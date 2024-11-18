@@ -1,0 +1,46 @@
+---
+title: "What an early 2000s reality show taught me about file management"
+toc: false
+description: |
+  A talk given at posit::conf(2023)
+date: 2023-09-19
+categories: talks
+image: posit-conf2023-hexwall2.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="https://youtu.be/J3bxE4y8_Dg?si=qPf4zbWH7RBcXxoT">`r fa("youtube")` 
+Recording</a>
+
+## About the conference
+
+posit::conf(2023) took place in Chicago, USA from September 17 to 20, 2023. As 
+one of the largest conferences in the R community, this event offers a unique 
+opportunity to learn about new tools and foster connections within the 
+open-source community. The event featured a diverse program, including workshops 
+keynotes, and presentations.
+
+I had the privilege of attending as both a speaker and an Opportunity Scholar. 
+During the conference, I had the chance to connect with fellow Opportunity 
+Scholarship recipients and members of the R-Ladies community from around the 
+world.
+
+## What I presented
+
+*This abstract has been edited for conciseness*
+
+Ideas from home organization shows are surprisingly applicable to file 
+management. Using a room divider in a studio to establish dedicated zones 
+for different activities is analogous to creating self-contained projects. 
+Likewise, swapping mismatched hangers with matching ones resembles the adoption 
+of a file naming convention to make a directory easier to navigate.
+
+In this talk, I will share good practices in file management through the lens of 
+home organization. We all know that clutter, whether it is in our physical space 
+or on our machine, impacts our ability to focus. These practices will help useRs 
+create a serene, relaxing environment where they feel inspired to work with data.

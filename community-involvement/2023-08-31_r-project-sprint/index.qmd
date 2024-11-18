@@ -1,0 +1,34 @@
+---
+title: "R Project Sprint 2023"
+toc: false
+description: |
+  Contributing to base R at the University of Warwick
+date: 2023-08-31
+categories: event
+image: john-schnobrich-2FPjlAyMQTA-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="https://contributor.r-project.org/r-project-sprint-2023/">
+`r fa("globe")` Event page</a>
+
+## Summary
+
+The R Project Sprint took place at the University of Warwick from August 30 to 
+September 1, 2023. It brought together 46 participants, including members of the 
+R Core team, to collaboratively contribute to base R. This included tasks such 
+as fixing bugs, improving documentation, and working on message translations 
+(i.e., internationalization).
+
+During the event, I focused on assisting with the English-to-Japanese 
+translation of messages in base R and packages supplied with the R distribution. 
+The event offered me a valuable opportunity to learn from useRs who teach coding 
+in non-English environments and deepened my appreciation for the extensive 
+coordination required to maintain open-source software.
+
+For more insights, check out this [excellent blog post by Shannon Pileggi](https://www.pipinghotdata.com/posts/2023-09-07-r-project-sprint/).

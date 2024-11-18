@@ -1,23 +1,24 @@
 [
   {
-    "listing": "/outreach.html",
+    "listing": "/talks-workshops.html",
     "items": [
-      "/outreach/2024-07-09_user-salzburg/index.html",
-      "/outreach/2024-01-25_r-ladies-ottawa/index.html",
-      "/outreach/2023-09-19_posit-conf-talk/index.html",
-      "/outreach/2023-08-31_r-project-sprint/index.html",
-      "/outreach/2023-06-15_nrc/index.html",
-      "/outreach/2022-10-17_r-ladies-rocur/index.html",
-      "/outreach/2021-10-05_r-ladies-seattle/index.html",
-      "/outreach/2021-06-05_r-cascadia/index.html",
-      "/outreach/2021-05-12_r-ladies-vancouver/index.html",
-      "/outreach/2020-09-02_ubc-mds-alumni/index.html"
+      "/talks-workshops/2024-10-28_ohri-journal-club/index.html",
+      "/talks-workshops/2024-09-16_u-de-montreal/index.html",
+      "/talks-workshops/2024-07-09_user-salzburg/index.html",
+      "/talks-workshops/2024-01-25_r-ladies-ottawa/index.html",
+      "/talks-workshops/2023-09-19_posit-conf/index.html",
+      "/talks-workshops/2023-06-15_nrc/index.html",
+      "/talks-workshops/2021-10-05_r-ladies-seattle/index.html",
+      "/talks-workshops/2021-06-05_r-cascadia/index.html",
+      "/talks-workshops/2021-05-12_r-ladies-vancouver/index.html",
+      "/talks-workshops/2020-09-02_ubc-mds-alumni/index.html"
     ]
   },
   {
-    "listing": "/software.html",
+    "listing": "/community-involvement.html",
     "items": [
-      "/software/bcepirate/index.html"
+      "/community-involvement/2023-08-31_r-project-sprint/index.html",
+      "/community-involvement/2022-10-17_r-ladies-rocur/index.html"
     ]
   }
 ]
