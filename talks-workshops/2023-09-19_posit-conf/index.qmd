@@ -2,7 +2,7 @@
 title: "What an early 2000s reality show taught me about file management"
 toc: false
 description: |
-  A talk given at posit::conf(2023)
+  A talk at posit::conf(2023)
 date: 2023-09-19
 categories: talks
 image: posit-conf2023-hexwall2.jpg
