@@ -2,7 +2,7 @@
 title: "Introduction to the tidyverse"
 toc: false
 description: |
-  A workshop series organized under the Artificial Intelligence and Data Science 
+  A workshop series organized by the Artificial Intelligence and Data Science 
   section of the Ottawa Hospital Research Institute
 date: 2024-10-28
 categories: workshops

@@ -2,7 +2,7 @@
 title: "Table talk: reproducible table creation in R for epidemiological research"
 toc: false
 description: |
-  A lightning talk given at useR! 2024
+  A lightning talk at useR! 2024
 date: 2024-07-09
 categories: talks
 image: pexels-bidvine-517980-1249611.jpg
