@@ -1,6 +1,8 @@
 ---
 title: "Community involvement"
-#listing:
-#  contents: community-involvement
-#  type: grid
+listing:
+  contents: community-involvement
+  type: grid
+  sort: "date desc"
+  categories: true
 ---

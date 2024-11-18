@@ -1,5 +1,6 @@
 ---
 title: "How to thrive in the UBC Master of Data Science program"
+toc: false
 description: |
   Advice from an alum
 date: 2020-09-02

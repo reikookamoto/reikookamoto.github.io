@@ -1,0 +1,33 @@
+---
+title: "Introduction to the tidyverse"
+toc: false
+description: |
+  A workshop series organized under the Artificial Intelligence and Data Science 
+  section of the Ottawa Hospital Research Institute
+date: 2024-10-28
+categories: workshops
+image: alexander-sinn-KgLtFCgfC28-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+##### Session 1: Data wrangling
+
+<a class="btn btn-light" href="https://github.com/reikookamoto/2024-10-28_intro-to-dplyr">
+`r fa("github")` Workshop materials</a>
+
+##### Session 2: Data visualization 
+
+<a class="btn btn-light" href="https://github.com/reikookamoto/2024-11-04_intro-to-ggplot2">
+`r fa("github")` Workshop materials</a>
+
+## Summary
+
+I developed and led a series of virtual workshops designed to introduce novice 
+programmers to popular R packages such as dplyr and ggplot2. The sessions 
+attracted over 50 participants, including attendees from the Ottawa Hospital 
+Research Institute and other academic organizations in the city.

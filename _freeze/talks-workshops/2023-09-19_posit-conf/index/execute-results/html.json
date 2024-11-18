@@ -1,0 +1,17 @@
+{
+  "hash": "0a689c9b942d5a56d773e15d124e3274",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"What an early 2000s reality show taught me about file management\"\ntoc: false\ndescription: |\n  A talk given at posit::conf(2023)\ndate: 2023-09-19\ncategories: talks\nimage: posit-conf2023-hexwall2.jpg\n---\n\n\n\n\n<a class=\"btn btn-light\" href=\"https://youtu.be/J3bxE4y8_Dg?si=qPf4zbWH7RBcXxoT\">`<svg aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 576 512\" style=\"height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;\"><path d=\"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z\"/></svg>`{=html} \nRecording</a>\n\n## About the conference\n\nposit::conf(2023) took place in Chicago, USA from September 17 to 20, 2023. As \none of the largest conferences in the R community, this event offers a unique \nopportunity to learn about new tools and foster connections within the \nopen-source community. The event featured a diverse program, including workshops \nkeynotes, and presentations.\n\nI had the privilege of attending as both a speaker and an Opportunity Scholar. \nDuring the conference, I had the chance to connect with fellow Opportunity \nScholarship recipients and members of the R-Ladies community from around the \nworld.\n\n## What I presented\n\n*This abstract has been edited for conciseness*\n\nIdeas from home organization shows are surprisingly applicable to file \nmanagement. Using a room divider in a studio to establish dedicated zones \nfor different activities is analogous to creating self-contained projects. \nLikewise, swapping mismatched hangers with matching ones resembles the adoption \nof a file naming convention to make a directory easier to navigate.\n\nIn this talk, I will share good practices in file management through the lens of \nhome organization. We all know that clutter, whether it is in our physical space \nor on our machine, impacts our ability to focus. These practices will help useRs \ncreate a serene, relaxing environment where they feel inspired to work with data.\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

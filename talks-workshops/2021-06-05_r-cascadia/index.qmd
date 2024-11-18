@@ -2,7 +2,7 @@
 title: "Bringing analysts and technical writers together through internal packages"
 toc: false
 description: |
-  A talk at Cascadia R Conf 2021
+  A talk at Cascadia R 2021
 date: 2021-06-05
 categories: talks
 image: etienne-girardet-RuMqg2cs-M0-unsplash.jpg
@@ -14,8 +14,29 @@ image: etienne-girardet-RuMqg2cs-M0-unsplash.jpg
 library(fontawesome)
 ```
 
-<a class="btn btn-light" href="https://youtu.be/XpIoSOgfC4A">`r fa("youtube")` Recording</a>
+<a class="btn btn-light" href="https://youtu.be/XpIoSOgfC4A">`r fa("youtube")` 
+Recording</a>
 
-## Audience
+## About the conference
 
-## Abstract
+[Cascadia R](https://cascadiarconf.com/) is a regional R conference serving the 
+Pacific Northwest. In 2021, the event took place online on June 4 and 5. I had 
+the opportunity to reflect on my experience at the Office of the Provincial 
+Health Officer in British Columbia through a five-minute lightning talk.
+
+## What I presented
+
+*This abstract has been edited for conciseness*
+
+Restructuring frequently used code snippets into well-organized internal 
+packages is easier said than done. In this presentation, we discuss how to 
+address challenges that are less explored compared to the technical aspects of 
+the development process. How do you find out what your team truly needs? And 
+once the package is complete, how do you encourage colleagues to adopt it? 
+
+We answer these questions through a case study reflecting on our team's 
+experience creating a ggplot2 extension to match the organization's existing 
+style guide for healthcare utilization reports. This package streamlines plot 
+formatting, allowing analysts to focus on identifying trends in the data to 
+share with technical writers, thereby fostering more efficient collaboration 
+between the two groups. 

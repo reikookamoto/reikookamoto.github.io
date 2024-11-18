@@ -1,0 +1,49 @@
+---
+title: "Introduction to R and the tidyverse"
+toc: false
+description: |
+  A workshop series with R-Ladies Ottawa
+date: 2024-01-25
+categories: [workshops, r-ladies]
+image: natalie-kinnear-PyegXTiAWEY-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+##### Session 1: R and RStudio
+
+<a class="btn btn-light" href="https://youtu.be/1DwmSjbR7cs?si=oiPRZQOAXua0yUMG">
+`r fa("youtube")` Recording</a>
+<a class="btn btn-light" href="https://github.com/RLadies-Ottawa/2024-01-25_intro-to-R">
+`r fa("github")` Workshop materials</a>
+
+##### Session 2: Data visualization 
+
+<a class="btn btn-light" href="https://youtu.be/lFjjD0EEWX0?si=JM33tpJG21V7BxUs">
+`r fa("youtube")` Recording</a>
+<a class="btn btn-light" href="https://github.com/RLadies-Ottawa/2024-02-01_ggplot2-part-01">
+`r fa("github")` Workshop materials</a>
+
+##### Session 3: A deeper dive into data visualization
+
+<a class="btn btn-light" href="https://youtu.be/ieLQQgYVO_s?si=T3kAe1Qo1dpeZHiK">
+`r fa("youtube")` Recording</a>
+<a class="btn btn-light" href="https://github.com/RLadies-Ottawa/2024-02-22_ggplot2-part-02">
+`r fa("github")` Workshop materials</a>
+
+## Summary
+
+As a member of R-Ladies Ottawa, I developed and led a series of virtual 
+workshops aimed at introducing novice programmers to base R and popular 
+tidyverse packages. These sessions attracted participants not only from Ottawa 
+but also from around the world. 
+
+With the generous support of the R-Ladies Global team, we were able to test 
+drive their Posit Cloud environment, which eliminated the need for participants 
+to install software on their local machines. This significantly lowered the 
+barrier to entry, allowing participants to focus on learning without the 
+technical hurdles of software installation.

@@ -1,0 +1,21 @@
+---
+title: "R-Ladies RoCur (Rotating Curation)"
+toc: false
+description: |
+  Curating the @WeAreRLadies Twitter account
+date: 2022-10-17
+categories: r-ladies
+image: chris-j-davis-7ezFz2Hxd40-unsplash.jpg
+---
+
+## Summary
+
+Each week, a different useR took over the [\@WeAreRLadies](https://twitter.com/WeAreRLadies) 
+Twitter account to share their experiences using R. Featured curators came from 
+a wide range of professions and had a wide variety of experience in R. The 
+program has since left Twitter and moved to [Bluesky](https://bsky.app/profile/weare.rladies.org).
+
+From October 17 to October 22, 2022, I tweeted about how to develop packages, 
+ensure code reproducibility, and organize coding workshops. My tweet about 
+writing ggplot2 extensions was particularly well received, garnering hundreds of 
+likes!
