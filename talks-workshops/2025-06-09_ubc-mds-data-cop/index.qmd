@@ -1,0 +1,23 @@
+---
+title: "Staying connected after the Master of Data Science program"
+toc: false
+description: |
+  More advice from an alum
+date: 2025-06-09
+categories: talks
+image: my-life-through-a-lens-bq31L0jQAjU-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="2025-06-09_UBC-MDS-COP-1.pdf" target="_blank">`r fa("desktop")` Slides</a>
+
+## Summary
+
+I had the opportunity to speak with students in the UBC Master of Data Science 
+program about getting involved in communities of practice and why staying engaged 
+after graduation matters.
