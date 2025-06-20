@@ -1,0 +1,15 @@
+{
+  "hash": "de675cf538c999915192827e1b47c9ee",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Staying connected after the Master of Data Science program\"\ntoc: false\ndescription: |\n  More advice from an alum\ndate: 2025-06-09\ncategories: talks\nimage: my-life-through-a-lens-bq31L0jQAjU-unsplash.jpg\n---\n\n\n\n\n<a class=\"btn btn-light\" href=\"2025-06-09_UBC-MDS-COP-1.pdf\" target=\"_blank\">`<svg aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 576 512\" style=\"height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;\"><path d=\"M64 0C28.7 0 0 28.7 0 64V352c0 35.3 28.7 64 64 64H240l-10.7 32H160c-17.7 0-32 14.3-32 32s14.3 32 32 32H416c17.7 0 32-14.3 32-32s-14.3-32-32-32H346.7L336 416H512c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64H64zM512 64V288H64V64H512z\"/></svg>`{=html} Slides</a>\n\n## Summary\n\nI had the opportunity to speak with students in the UBC Master of Data Science \nprogram about getting involved in communities of practice and why staying engaged \nafter graduation matters.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
