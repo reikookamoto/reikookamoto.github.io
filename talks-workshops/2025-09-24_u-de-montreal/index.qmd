@@ -1,0 +1,26 @@
+---
+title: "Introduction to the tidyverse"
+toc: false
+description: |
+  Workshop at the Department of Political Science at Université de Montréal
+date: 2025-09-24
+categories: workshops
+image: artem-bryzgalov-qHMf-I-JAXo-unsplash.jpg
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+<a class="btn btn-light" href="https://github.com/reikookamoto/2025-09-24_intro-to-tidyverse">
+`r fa("github")` Workshop materials</a>
+
+## Summary
+
+For the second consecutive year, I was invited by Professor Vincent Arel-Bundock 
+as a guest lecturer to lead a three-hour workshop for the *FAS 3001 - 
+Statistiques avancées en sciences sociales* course. The workshop focused on data 
+wrangling using dplyr and visualization using ggplot2, providing students with 
+the tools to perform quantitative analysis throughout the semester and beyond.
