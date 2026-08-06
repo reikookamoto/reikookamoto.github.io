@@ -11,6 +11,7 @@ website:
         text: Home
       - href: talks-workshops.qmd
       - href: community-involvement.qmd
+      - href: trainspotting.qmd
     right:
       - icon: github
         href: https://github.com/reikookamoto/reikookamoto.github.io
@@ -21,4 +22,3 @@ format:
     theme: [minty, brand]
     toc: true
     page-layout: full
-    

@@ -1,0 +1,37 @@
+---
+title: "My Cascading Gallery"
+lightbox: true
+filters:
+  - masonry
+include-in-header:
+  - text: |
+      <style>
+        .grid-item {
+          width: 200px;
+          height: 160px;
+          float: left;
+          background: #D26;
+          border: 2px solid #333;
+          border-color: hsla(0, 0%, 0%, 0.5);
+          border-radius: 5px;
+        }
+      <style>
+---
+
+:::: {.grid data-masonry='{ "itemSelector": ".grid-item", "gutter": 0 }'}
+:::{.grid-item}
+![example-caption-01](image-01.png)
+:::
+:::{.grid-item}
+![example-caption-02](image-02.png)
+:::
+:::{.grid-item}
+![example-caption-03](image-03.png)
+:::
+:::{.grid-item}
+![example-caption-04](image-04.png)
+:::
+:::{.grid-item}
+![example-caption-05](image-05.png)
+:::
+::::
