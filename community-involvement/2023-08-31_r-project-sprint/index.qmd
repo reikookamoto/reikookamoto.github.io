@@ -8,7 +8,7 @@ categories: event
 image: john-schnobrich-2FPjlAyMQTA-unsplash.jpg
 ---
 
-<a class="btn btn-primary" href="https://contributor.r-project.org/r-project-sprint-2023/">{{< fa globe >}} Event page</a>
+<a class="btn btn-light" href="https://contributor.r-project.org/r-project-sprint-2023/">{{< fa globe >}} Event page</a>
 
 ## Summary
 
