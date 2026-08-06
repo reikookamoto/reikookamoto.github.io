@@ -1,0 +1,16 @@
+---
+title: "Custom city maps in R"
+toc: false
+description: |
+  A workshop to create wall-worthy maps
+date: 2025-11-15
+categories: [workshops, r-ladies]
+image: the-cleveland-museum-of-art-mU_xG4wNkKw-unsplash.jpg
+---
+
+<a class="btn btn-light" href="https://youtu.be/VVDIuHYEu_w?si=R2CHzlrEoiyX4L2F">{{< fa brands youtube >}} Recording</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/2025-11-25_intro-to-maps">{{< fa brands github >}} Workshop material</a>
+
+## Summary
+
+I led a hands-on workshop for R-Ladies Ottawa on creating custom city maps using open-source geospatial tools in R. The session covered fundamentals of geospatial analysis, focusing on vector data structures and map projections. Participants learned to query OpenStreetMap data via osmdata and design minimalist prints using sf and ggplot2.
