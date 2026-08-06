@@ -8,14 +8,7 @@ categories: workshops
 image: brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://github.com/reikookamoto/nRc-WiSI">`r fa("github")` 
-Workshop materials</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/nRc-WiSI">{{< fa brands github >}} Workshop material</a>
 
 ## Summary
 

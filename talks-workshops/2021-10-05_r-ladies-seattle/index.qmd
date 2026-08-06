@@ -8,14 +8,7 @@ categories: [workshops, r-ladies]
 image: michal-balog-66NaCdBrkCs-unsplash.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://www.meetup.com/rladies-seattle/events/280927919/">`r fa("meetup")` 
-Event page</a>
+<a class="btn btn-light" href="https://www.meetup.com/rladies-seattle/events/280927919/">{{< fa brands meetup >}} Event page</a>
 
 ## Summary 
 

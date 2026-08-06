@@ -1,0 +1,19 @@
+color:
+  palette:
+    green: "#a6ce39"
+    blue: "#3853a3"
+    ink: "#272727"
+    slate: "#3e3e3e"
+  background: white
+  foreground: ink
+  primary: green
+  secondary: slate
+
+typography:
+  fonts:
+    - family: Mulish
+      source: google
+  headings: Mulish
+  base: Mulish
+  link:
+    color: blue
