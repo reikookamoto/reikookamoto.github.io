@@ -1,9 +1,10 @@
 project:
   type: website
-  output-dir: docs
-  
+
 website:
   title: "Reiko Okamoto"
+  favicon: woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -14,14 +15,10 @@ website:
       - icon: github
         href: https://github.com/reikookamoto/reikookamoto.github.io
         target: _blank
-  favicon: media/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png
 
 format:
   html:
-    theme: [flatly, styles.scss]
-    mainfont: Nunito
+    theme: [minty, brand]
     toc: true
     page-layout: full
-
-execute:
-  freeze: auto
+    
