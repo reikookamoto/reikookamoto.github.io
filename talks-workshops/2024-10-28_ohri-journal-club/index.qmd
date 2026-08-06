@@ -9,21 +9,13 @@ categories: workshops
 image: alexander-sinn-KgLtFCgfC28-unsplash.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
 ##### Session 1: Data wrangling
 
-<a class="btn btn-light" href="https://github.com/reikookamoto/2024-10-28_intro-to-dplyr">
-`r fa("github")` Workshop materials</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/2024-10-28_intro-to-dplyr">{{< fa brands github >}} Workshop material</a>
 
 ##### Session 2: Data visualization 
 
-<a class="btn btn-light" href="https://github.com/reikookamoto/2024-11-04_intro-to-ggplot2">
-`r fa("github")` Workshop materials</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/2024-11-04_intro-to-ggplot2">{{< fa brands github >}} Workshop material</a>
 
 ## Summary
 

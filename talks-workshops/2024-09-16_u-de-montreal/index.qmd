@@ -8,14 +8,7 @@ categories: workshops
 image: pexels-henri-mathieu-5898313.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://github.com/reikookamoto/2024-09-18_intro-to-tidyverse">
-`r fa("github")` Workshop materials</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/2024-09-18_intro-to-tidyverse">{{< fa brands github >}} Workshop materials</a>
 
 ## Summary
 

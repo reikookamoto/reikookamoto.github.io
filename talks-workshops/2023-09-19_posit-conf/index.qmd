@@ -8,14 +8,7 @@ categories: talks
 image: posit-conf2023-hexwall2.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://youtu.be/J3bxE4y8_Dg?si=qPf4zbWH7RBcXxoT">`r fa("youtube")` 
-Recording</a>
+<a class="btn btn-light" href="https://youtu.be/J3bxE4y8_Dg?si=qPf4zbWH7RBcXxoT">{{< fa brands youtube >}} Recording</a>
 
 ## About the conference
 

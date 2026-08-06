@@ -8,14 +8,7 @@ categories: talks
 image: etienne-girardet-RuMqg2cs-M0-unsplash.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://youtu.be/XpIoSOgfC4A">`r fa("youtube")` 
-Recording</a>
+<a class="btn btn-light" href="https://youtu.be/XpIoSOgfC4A">{{< fa brands youtube >}} Recording</a>
 
 ## About the conference
 

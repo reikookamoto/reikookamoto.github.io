@@ -8,14 +8,7 @@ categories: workshops
 image: artem-bryzgalov-qHMf-I-JAXo-unsplash.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="https://github.com/reikookamoto/2025-09-24_intro-to-tidyverse">
-`r fa("github")` Workshop materials</a>
+<a class="btn btn-light" href="https://github.com/reikookamoto/2025-09-24_intro-to-tidyverse">{{< fa brands github >}} Workshop materials</a>
 
 ## Summary
 

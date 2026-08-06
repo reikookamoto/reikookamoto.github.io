@@ -8,14 +8,7 @@ categories: talks
 image: pexels-bidvine-517980-1249611.jpg
 ---
 
-```{r}
-#| label: setup
-#| include: false
-library(fontawesome)
-```
-
-<a class="btn btn-light" href="presentation.pdf" target="_blank">`r fa("desktop")` 
-Slides</a>
+<a class="btn btn-light" href="presentation.pdf" target="_blank">{{< fa desktop >}} Slides</a>
 
 ## About the conference
 
