@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reiko Okamoto",
-    "section": "",
-    "text": "My name is Reiko and I’m a creative implementer passionate about making data analysis more robust and reproducible. With a background in the life sciences, I’ve spent my career applying quantitative methods to problems across academia and the public sector. Lately I’ve found myself increasingly drawn to spatial data analysis and the way the built environment shapes our health and well-being.\nI’m also active within the R community. As one of the organizers for R-Ladies+ Ottawa, I put on events to make coding more accessible and create opportunities for data enthusiasts to connect over their shared passion. As an administrator of the We Are R-Ladies+ Bluesky account, I manage a rotating curation program where each week a different member of the R community takes over the account to share their insights and discuss their work.\nWhen I’m not at my computer, you’ll probably find me travelling, trainspotting, or training to be on the next season of The Amazing Race Canada."
-  },
-  {
-    "objectID": "index.html#nice-to-meet-you",
-    "href": "index.html#nice-to-meet-you",
-    "title": "Reiko Okamoto",
-    "section": "",
-    "text": "My name is Reiko and I’m a creative implementer passionate about making data analysis more robust and reproducible. With a background in the life sciences, I’ve spent my career applying quantitative methods to problems across academia and the public sector. Lately I’ve found myself increasingly drawn to spatial data analysis and the way the built environment shapes our health and well-being.\nI’m also active within the R community. As one of the organizers for R-Ladies+ Ottawa, I put on events to make coding more accessible and create opportunities for data enthusiasts to connect over their shared passion. As an administrator of the We Are R-Ladies+ Bluesky account, I manage a rotating curation program where each week a different member of the R community takes over the account to share their insights and discuss their work.\nWhen I’m not at my computer, you’ll probably find me travelling, trainspotting, or training to be on the next season of The Amazing Race Canada."
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Reiko Okamoto",
-    "section": "Experience",
-    "text": "Experience\n\n Methodologist, Sept. 2023 - Present Bruyère Health Research Institute, Ottawa, ON\n\n\n Data Scientist, Mar. 2022 - Sept. 2023 National Research Council Canada, Ottawa, ON\n\n\n Senior Data Analyst, Sept. 2021 - Feb. 2022 Ministry of Health, Victoria, BC\n\n Data Analyst, Aug. 2020 - Sept. 2021 Ministry of Health, Victoria, BC"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Reiko Okamoto",
-    "section": "Education",
-    "text": "Education\n\n Master of Data Science, 2020 The University of British Columbia\n\n\n Bachelor of Science, Microbiology and Immunology, 2018 The University of British Columbia"
-  },
-  {
     "objectID": "talks-workshops.html",
     "href": "talks-workshops.html",
     "title": "Talks & workshops",
@@ -126,18 +98,11 @@
     "text": "I was invited to speak to the Class of 2021 during their orientation week. I shared insights from my experience in the program, focusing on effective study habits and job searching strategies."
   },
   {
-    "objectID": "community-involvement/2023-08-31_r-project-sprint/index.html",
-    "href": "community-involvement/2023-08-31_r-project-sprint/index.html",
-    "title": "R Project Sprint 2023",
+    "objectID": "community-involvement.html",
+    "href": "community-involvement.html",
+    "title": "Community involvement",
     "section": "",
-    "text": "Event page"
-  },
-  {
-    "objectID": "community-involvement/2023-08-31_r-project-sprint/index.html#summary",
-    "href": "community-involvement/2023-08-31_r-project-sprint/index.html#summary",
-    "title": "R Project Sprint 2023",
-    "section": "Summary",
-    "text": "Summary\nThe R Project Sprint took place at the University of Warwick from August 30 to September 1, 2023. It brought together 46 participants, including members of the R Core team, to collaboratively contribute to base R. This included tasks such as fixing bugs, improving documentation, and working on message translations (i.e., internationalization).\nDuring the event, I focused on assisting with the English-to-Japanese translation of messages in base R and packages supplied with the R distribution. The event offered me a valuable opportunity to learn from useRs who teach coding in non-English environments and deepened my appreciation for the extensive coordination required to maintain open-source software.\nFor more insights, check out this excellent blog post by Shannon Pileggi."
+    "text": "R Project Sprint 2023\n\n\n\nevent\n\n\n\nContributing to base R at the University of Warwick\n\n\n\n\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\n\nr-ladies\n\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\n\n\n\nOct 17, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "community-involvement/2022-10-17_r-ladies-rocur/index.html",
@@ -154,11 +119,46 @@
     "text": "Each week, a different useR took over the @WeAreRLadies Twitter account to share their experiences using R. Featured curators came from a wide range of professions and had a wide variety of experience in R. The program has since left Twitter and moved to Bluesky.\nFrom October 17 to October 22, 2022, I tweeted about how to develop packages, ensure code reproducibility, and organize coding workshops. My tweet about writing ggplot2 extensions was particularly well received, garnering hundreds of likes!"
   },
   {
-    "objectID": "community-involvement.html",
-    "href": "community-involvement.html",
-    "title": "Community involvement",
+    "objectID": "community-involvement/2023-08-31_r-project-sprint/index.html",
+    "href": "community-involvement/2023-08-31_r-project-sprint/index.html",
+    "title": "R Project Sprint 2023",
     "section": "",
-    "text": "R Project Sprint 2023\n\n\n\nevent\n\n\n\nContributing to base R at the University of Warwick\n\n\n\n\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies RoCur (Rotating Curation)\n\n\n\nr-ladies\n\n\n\nCurating the @WeAreRLadies Twitter account\n\n\n\n\n\n\nOct 17, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Event page"
+  },
+  {
+    "objectID": "community-involvement/2023-08-31_r-project-sprint/index.html#summary",
+    "href": "community-involvement/2023-08-31_r-project-sprint/index.html#summary",
+    "title": "R Project Sprint 2023",
+    "section": "Summary",
+    "text": "Summary\nThe R Project Sprint took place at the University of Warwick from August 30 to September 1, 2023. It brought together 46 participants, including members of the R Core team, to collaboratively contribute to base R. This included tasks such as fixing bugs, improving documentation, and working on message translations (i.e., internationalization).\nDuring the event, I focused on assisting with the English-to-Japanese translation of messages in base R and packages supplied with the R distribution. The event offered me a valuable opportunity to learn from useRs who teach coding in non-English environments and deepened my appreciation for the extensive coordination required to maintain open-source software.\nFor more insights, check out this excellent blog post by Shannon Pileggi."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reiko Okamoto",
+    "section": "",
+    "text": "My name is Reiko and I’m a creative implementer passionate about making data analysis more robust and reproducible. With a background in the life sciences, I’ve spent my career applying quantitative methods to problems across academia and the public sector. Lately I’ve found myself increasingly drawn to spatial data analysis and the way the built environment shapes our health and well-being.\nI’m also active within the R community. As one of the organizers for R-Ladies+ Ottawa, I put on events to make coding more accessible and create opportunities for data enthusiasts to connect over their shared passion. As an administrator of the We Are R-Ladies+ Bluesky account, I manage a rotating curation program where each week a different member of the R community takes over the account to share their insights and discuss their work.\nWhen I’m not at my computer, you’ll probably find me travelling, trainspotting, or training to be on the next season of The Amazing Race Canada."
+  },
+  {
+    "objectID": "index.html#nice-to-meet-you",
+    "href": "index.html#nice-to-meet-you",
+    "title": "Reiko Okamoto",
+    "section": "",
+    "text": "My name is Reiko and I’m a creative implementer passionate about making data analysis more robust and reproducible. With a background in the life sciences, I’ve spent my career applying quantitative methods to problems across academia and the public sector. Lately I’ve found myself increasingly drawn to spatial data analysis and the way the built environment shapes our health and well-being.\nI’m also active within the R community. As one of the organizers for R-Ladies+ Ottawa, I put on events to make coding more accessible and create opportunities for data enthusiasts to connect over their shared passion. As an administrator of the We Are R-Ladies+ Bluesky account, I manage a rotating curation program where each week a different member of the R community takes over the account to share their insights and discuss their work.\nWhen I’m not at my computer, you’ll probably find me travelling, trainspotting, or training to be on the next season of The Amazing Race Canada."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Reiko Okamoto",
+    "section": "Experience",
+    "text": "Experience\n\n Methodologist, Sept. 2023 - Present Bruyère Health Research Institute, Ottawa, ON\n\n\n Data Scientist, Mar. 2022 - Sept. 2023 National Research Council Canada, Ottawa, ON\n\n\n Senior Data Analyst, Sept. 2021 - Feb. 2022 Ministry of Health, Victoria, BC\n\n Data Analyst, Aug. 2020 - Sept. 2021 Ministry of Health, Victoria, BC"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Reiko Okamoto",
+    "section": "Education",
+    "text": "Education\n\n Master of Data Science, 2020 The University of British Columbia\n\n\n Bachelor of Science, Microbiology and Immunology, 2018 The University of British Columbia"
   },
   {
     "objectID": "talks-workshops/2021-05-12_r-ladies-vancouver/index.html",
